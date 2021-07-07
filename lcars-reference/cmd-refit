@@ -1,0 +1,44 @@
+viper042 — Today at 12:39 PM
+!refit ?
+LCARS 2.0
+BOT
+ — Today at 12:39 PM
+Commander, information as requested...
+ COMMAND HELP
+= refit command =
+
+Ship skins and projectiles for specific ships
+
+Command ::
+!refit
+
+Aliases ::
+!skin !projectile
+Syntax:
+!refit <name> <filters>
+
+Name ::
+ * Full/partial/nickname ship/skin/projectile name
+
+Filters ::
+ * faction   - neutral, federation, romulan, klingon
+ * grade     - G3 to G4 / 3* to 4*
+ * rarity    - rare, epic
+ * type      - interceptor, explorer, battleship
+Usage Examples:
+!refit                 = detailed list of skins & projectiles
+!skins                 = detailed list of skins
+!g3 skins              = g3 ship skins
+!fed skins             = federation ship skins
+!exp skins             = explorer ship skins
+!projectiles           = detailed list of projectiles
+!refit augur           = skin(s) for Augur
+!augur skin            = skin(s) for Augur
+!constellation skin    = skin(s) for ISS Jellyfish
+!refit fusion          = fusion beam projectile
+!fusion projectile     = fusion beam projectile
+Notes:
+ * Faction name: neu fed kli rom
+ * Ship types: int, exp, bshp
+
+LCARS 2.0 - Library Computer Access/Retrieval System•Today at 12:39 PM

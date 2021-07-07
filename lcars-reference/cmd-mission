@@ -1,0 +1,70 @@
+viper042 — Today at 12:36 PM
+!mission ?
+LCARS 2.0
+BOT
+ — Today at 12:36 PM
+Commander, information as requested...
+ COMMAND HELP
+= Mission command =
+
+Mission list and detailed information
+
+Command ::
+!mission
+
+Aliases ::
+!mis, !quest
+Syntax:
+!mission <name> <filters> <min> <condition> <max>
+
+Name ::
+ * Full/partial Mission or Reward name
+           - for rewards, keyword is required
+ * Enclose in quotes for explicit name search
+
+Filters ::
+ * Reward  - missions filtered by reward
+ * List    - list of rewards found in missions
+           - requires reward keyword
+ * Faction - neutral, federation, romulan, klingon,
+             augment, swarm, borg
+ * Start   - start missions only
+ * Auto    - auto start missions only
+ * Link    - link missions only
+ * Chain   - prior missions in chain
+ * Peek    - Look ahead at missions in chain
+ * Deep    - deep space region only
+ * Dark    - dark space region only
+ * Warp    - use with Min/Max & Condition for ranges
+ * Arc     - filter by Borg Arc number
+
+Min/Max ::
+ * Numeric filter range
+           - level (default)
+
+Condition ::
+ * applied to range: `+`, `=`, `-`, `<`, `>`,
+                     `<=`, `>=`
+           - only applies to the first range value
+Usage Examples:
+!mission                 = mission statistics
+!miss fed                = all Federation missions
+!miss fed start          = all Fed start missions
+!miss borg               = all borg missions
+!miss borg arc 2         = borg arc 2 missions only
+!miss fed warp <35 Start = start Fed under warp 35
+!miss "end means"        = look for specific mission
+!miss "end means" chain     = list prior missions
+!miss "Angel in Disguise" peek = peek ahead
+!miss reward blueprint   = missions with blueprints
+!miss reward list        = list all rewards
+!miss rom reward list    = all Romulan mission rewards
+Notes:
+ * Enclose mission or reward names in quotes for 
+   explicit name search
+ * The mission details card is displayed if only
+   1 system returned in search results
+ * Faction name: neu fed kli rom aug swarm, borg
+ * Borg Arc filter must inlcude `borg` keyword
+
+LCARS 2.0 - Library Computer Access/Retrieval System•Today at 12:36 PM

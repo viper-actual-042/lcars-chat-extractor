@@ -1,0 +1,80 @@
+viper042 — Today at 12:40 PM
+!research ?
+LCARS 2.0
+BOT
+ — Today at 12:40 PM
+Commander, information as requested...
+ COMMAND HELP
+= Research command =
+
+Research details: requirements, cost & time, actual & increased power, and bonus/buffs by level
+
+Command ::
+!research
+
+Aliases ::
+!res, !r
+Syntax:
+!research <tab> <field> <name> <level> <filters>
+
+Faq::
+ * Explains how to calculate adjusted costs & time base
+   on other research and level of buildings. Link to
+   spreadsheet is also included.
+
+Fields::
+ * Cost,
+   Reward,
+   Requirement,
+   RequiredBy - search in
+
+Tab::
+ * Combat,
+   Station,
+   Galaxy,
+   Outlaw,
+   Territory - restrict search to tab type
+
+Name::
+ * Full/partial research name
+ * Enclose in quotes for explicit name search
+ * If no name & level, all research is listed
+
+Level ::
+ * Range: 1 to 15, none = summary
+
+Filters::
+ * Total    - total cost of ownership or TCO
+ * Power    - Sort descending order by Power Increase
+ * List     - Compact list format
+ * Info     - Compact list format with requirements
+ * Tabbed   - Used with List or Info for grouping
+Usage Examples:
+!research              = list all research
+!research combat       = list all research for combat tab
+!res station piercing  = all levels of station piercing
+!res par               = all research start with 'par'
+!res s trit            = all station tab start
+                         with 'trit'
+!r parsteel stock 5    = lvl 5 parsteel stockpile
+!r 35                  = all research for level 35
+!r 35 list             = compact research list
+!r 35 power            = all level 35 by power
+!r 35 pwr list         = compact list by power
+!r combat 35           = all combat research for level 35
+!r armada accuracy list = list all levels with key info
+!r armada accuracy tco = Total required for all levels
+!r territory list      = compact list of all Territory
+!r reward list         = list of all reward resources
+!r territory cost list = all Territory cost resources
+!r cost "Quantum Particle"
+  = all research with cost requiring the Quantum Particle
+Notes:
+ * tab name shortening eg: Combat, comb, c, etc
+ * partial name searches are supported
+ * search across all tabs when no tab used
+ * Enclose research names in quotes for 
+   explicit name search
+ * Tabs supported: Combat, Station, Galaxy, Outlaw
+
+LCARS 2.0 - Library Computer Access/Retrieval System•Today at 12:40 PM

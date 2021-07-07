@@ -1,0 +1,3715 @@
+{
+  "guild": {
+    "id": "697529039644131359",
+    "name": "Official LCARS 2.0",
+    "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\68dfe5594f8a01bd0da14ed53c3e79a6-1AEDA.png"
+  },
+  "channel": {
+    "id": "697529046057222148",
+    "type": "GuildTextChat",
+    "categoryId": "697529044585152600",
+    "category": "──── access terminals ────",
+    "name": "\uD83D\uDCBB-lcars-terminal-15",
+    "topic": "flag @moderator for assistance"
+  },
+  "dateRange": {
+    "after": "2021-07-05T10:00:00+02:00",
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "861677519262842901",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:38:49.786+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!bp kati",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861677519665365022",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:38:49.882+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No results found Commander. Please restate your request or use  ` !? ship `  for detailed help.",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861677566565023755",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:39:01.064+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!bp kting",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861677567110545420",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:39:01.194+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**K'T'INGA   -   BLUEPRINT\nKlingon   -   4★   Uncommon   Battleship**",
+          "url": null,
+          "timestamp": "2021-07-05T18:39:01.131+00:00",
+          "description": "Quantity: ` 150 `\nKlingon Loyalty Pack VI: ` 1,725 `(1 only)\nK’Tinga Class Blueprint: ` 1,320 each ` = ` 198.0K Total `\nFaction store: `Klingon`\nRequirements: `Shipyard (42), Commended reputation`\nHostiles: `Kronos (60)`\nNotes: `Buy blueprints in the Klingon Faction Store`",
+          "color": "#2ECC71",
+          "thumbnail": {
+            "url": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\prefab_ship_022_thumb_border-F6187.png",
+            "width": 256,
+            "height": 256
+          },
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861677654187704351",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:39:21.955+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!ship kting t2 t12",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861677654877143070",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:39:22.119+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**K'T'INGA   -   TIERS 2 TO 12\nKlingon   -   4★   Uncommon   Battleship**",
+          "url": null,
+          "timestamp": "2021-07-05T18:39:22.065+00:00",
+          "description": "",
+          "color": "#2ECC71",
+          "thumbnail": {
+            "url": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\prefab_ship_022_thumb_border-F6187.png",
+            "width": 256,
+            "height": 256
+          },
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Blueprints",
+              "value": "Quantity: ` 150 `\nKlingon Loyalty Pack VI: ` 1,725 `(1 only)\nK’Tinga Class Blueprint: ` 1,320 each ` = ` 198.0K Total `",
+              "isInline": false
+            },
+            {
+              "name": "Requirements",
+              "value": "Grade 4 Ship Research: ` 1 `\nShipyard: ` 42 `",
+              "isInline": true
+            },
+            {
+              "name": "Expansion",
+              "value": "Max Tiers: ` 12 `\nMax Levels: ` 60 `",
+              "isInline": true
+            },
+            {
+              "name": "Scrapyard",
+              "value": "Can Scrap? ` No `",
+              "isInline": true
+            },
+            {
+              "name": "Build Cost Tiers: 2 to 12",
+              "value": "`\u00A02,158,854,400,000\u00A0Tritanium\u00A0`\n`\u00A0\u00A0\u00A0\u00A091,125,800,000\u00A0Dilithium\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A027,415\u00A04★\u00A0Common\u00A0Crystal\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A044,615\u00A04★\u00A0Uncommon\u00A0Crystal\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A063,815\u00A04★\u00A0Rare\u00A0Crystal\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A058,005\u00A04★\u00A0Epic\u00A0Crystal\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0374,195\u00A04★\u00A0Common\u00A0Ore\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0390,085\u00A04★\u00A0Uncommon\u00A0Ore\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0333,305\u00A04★\u00A0Rare\u00A0Ore\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A092,260\u00A04★\u00A0Epic\u00A0Ore\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A010,526,695\u00A04★\u00A0Common\u00A0Battleship\u00A0Parts\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0392,970\u00A04★\u00A0Rare\u00A0Battleship\u00A0Parts\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0937,845\u00A04★\u00A0Uncommon\u00A0Battleship\u00A0Parts\u00A0`",
+              "isInline": false
+            },
+            {
+              "name": "Total Experience",
+              "value": "`  169,039,000  `",
+              "isInline": false
+            },
+            {
+              "name": "Upgradable Components",
+              "value": "```\n                 Tiers\nComponent        Min Max Qty\n-----------------------------\nEnergy Weapon      2  12   2\nKinetic Weapon     2  12   1\nCargo Bay          2  12   1\nWarp Engine        2  12   1\nArmor              2  12   1\nImpulse Engine     2  12   1\n-----------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "**NOTE:**",
+              "value": "* **Ship Total Tiering Cost & Time** displayed are *base values only*. Buffs/Bonuses are player specific and *are not applied*.",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861677811302137927",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:39:59.414+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!bp bchor",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861677811943866378",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:39:59.567+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**B'CHOR   -   BLUEPRINT\nKlingon   -   4★   Rare   Survey**",
+          "url": null,
+          "timestamp": "2021-07-05T18:39:59.513+00:00",
+          "description": "Quantity: ` 150 `\nKlingon Loyalty Pack IV: ` 1,500 `(1 only)\nB'Chor Class Blueprint: ` 1,200 each ` = ` 180.0K Total `",
+          "color": "#3498DB",
+          "thumbnail": {
+            "url": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\prefab_ship_064_thumb_border-C9E95.png",
+            "width": 256,
+            "height": 256
+          },
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861677881562628176",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:40:16.165+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!ship bchor t2 t12",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861677882077872169",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:40:16.288+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**B'CHOR   -   TIERS 2 TO 12\nKlingon   -   4★   Rare   Survey**",
+          "url": null,
+          "timestamp": "2021-07-05T18:40:16.231+00:00",
+          "description": "",
+          "color": "#3498DB",
+          "thumbnail": {
+            "url": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\prefab_ship_064_thumb_border-C9E95.png",
+            "width": 256,
+            "height": 256
+          },
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Blueprints",
+              "value": "Quantity: ` 150 `\nKlingon Loyalty Pack IV: ` 1,500 `(1 only)\nB'Chor Class Blueprint: ` 1,200 each ` = ` 180.0K Total `",
+              "isInline": false
+            },
+            {
+              "name": "Requirements",
+              "value": "Grade 4 Ship Research: ` 1 `\nShipyard: ` 41 `",
+              "isInline": true
+            },
+            {
+              "name": "Expansion",
+              "value": "Max Tiers: ` 12 `\nMax Levels: ` 60 `",
+              "isInline": true
+            },
+            {
+              "name": "Scrapyard",
+              "value": "Can Scrap? ` No `",
+              "isInline": true
+            },
+            {
+              "name": "Build Cost Tiers: 2 to 12",
+              "value": "`\u00A01,045,667,400,000\u00A0Tritanium\u00A0`\n`\u00A0\u00A0\u00A0\u00A043,985,700,000\u00A0Dilithium\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0179,870\u00A04★\u00A0Common\u00A0Crystal\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0191,285\u00A04★\u00A0Uncommon\u00A0Crystal\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0165,655\u00A04★\u00A0Rare\u00A0Crystal\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A045,485\u00A04★\u00A0Epic\u00A0Crystal\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A013,045\u00A04★\u00A0Common\u00A0Gas\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A021,475\u00A04★\u00A0Uncommon\u00A0Gas\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A031,070\u00A04★\u00A0Rare\u00A0Gas\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A028,300\u00A04★\u00A0Epic\u00A0Gas\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A05,247,095\u00A04★\u00A0Common\u00A0Survey\u00A0Parts\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0194,590\u00A04★\u00A0Rare\u00A0Survey\u00A0Parts\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0464,750\u00A04★\u00A0Uncommon\u00A0Survey\u00A0Parts\u00A0`",
+              "isInline": false
+            },
+            {
+              "name": "Total Experience",
+              "value": "`  169,039,000  `",
+              "isInline": false
+            },
+            {
+              "name": "Upgradable Components",
+              "value": "```\n                 Tiers\nComponent        Min Max Qty\n-----------------------------\nEnergy Weapon      2  12   1\nCargo Bay          2  12   1\nWarp Engine        2  12   1\nShield             2  12   1\nArmor              2  12   1\nImpulse Engine     2  12   1\nMining Laser       2  12   1\n-----------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "**NOTE:**",
+              "value": "* **Ship Total Tiering Cost & Time** displayed are *base values only*. Buffs/Bonuses are player specific and *are not applied*.",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861678078852857866",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:41:03.203+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!cargo  bchor",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861678079281201152",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:41:03.305+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**B'CHOR   -   CARGO CAPACITY & PROTECTED\nKlingon   -   4★   Rare   Survey**",
+          "url": null,
+          "timestamp": "2021-07-05T18:41:03.257+00:00",
+          "description": "\\* *Rotate mobile phones to view correctly*",
+          "color": "#3498DB",
+          "thumbnail": {
+            "url": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\prefab_ship_064_thumb_border-C9E95.png",
+            "width": 256,
+            "height": 256
+          },
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Cargo Capacity",
+              "value": "```\n T       Base      Upg      Total\n----------------------------------\n 1    800,000   50,000    850,000\n 2  1,100,000   60,000  1,160,000\n 3  1,410,000   80,000  1,490,000\n 4  1,740,000   70,000  1,810,000\n 5  2,060,000   80,000  2,140,000\n 6  2,390,000   80,000  2,470,000\n 7  2,720,000   80,000  2,800,000\n 8  3,050,000  100,000  3,150,000\n 9  3,400,000  100,000  3,500,000\n10  3,750,000  120,000  3,870,000\n11  4,120,000  130,000  4,250,000\n12  4,500,000        -  4,500,000\n----------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Cargo Protected",
+              "value": "```\n T     Base    Upg    Total\n----------------------------\n 1    8,200  1,000    9,200\n 2   14,200  1,300   15,500\n 3   20,500  1,500   22,000\n 4   27,000  2,000   29,000\n 5   34,000  2,500   36,500\n 6   41,500  3,000   44,500\n 7   49,500  4,000   53,500\n 8   58,500  4,500   63,000\n 9   68,000  5,000   73,000\n10   78,000  5,000   83,000\n11   88,000  7,000   95,000\n12  100,000      -  100,000\n----------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "**NOTE:**",
+              "value": "* **Cargo Capacity & Protected** displayed are *base values only*. Buffs/Bonuses are player specific and *are not applied*.",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861678226611240990",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:41:38.431+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!bp stella",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861678226769969163",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:41:38.469+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**STELLA   -   BLUEPRINT\nRogue   -   3★   Uncommon   Battleship**",
+          "url": null,
+          "timestamp": "2021-07-05T18:41:38.487+00:00",
+          "description": "Quantity: ` 100 `\nStella Blueprints: ` 100 each ` = ` 10,000 Total `\nStella Blueprint Reclaim: ` 1 each ` = ` 100 Total `\nStella Blueprint Reclaim: ` 1 each ` = ` 100 Total `",
+          "color": "#2ECC71",
+          "thumbnail": {
+            "url": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\prefab_ship_095_thumb_border-B939C.png",
+            "width": 256,
+            "height": 256
+          },
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861678354021613598",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:42:08.808+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!ship stella t2 t9",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861678354515755008",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:42:08.926+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**STELLA   -   TIERS 2 TO 9\nRogue   -   3★   Uncommon   Battleship**",
+          "url": null,
+          "timestamp": "2021-07-05T18:42:08.865+00:00",
+          "description": "",
+          "color": "#2ECC71",
+          "thumbnail": {
+            "url": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\prefab_ship_095_thumb_border-B939C.png",
+            "width": 256,
+            "height": 256
+          },
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Blueprints",
+              "value": "Quantity: ` 100 `\nStella Blueprints: ` 100 each ` = ` 10,000 Total `\nStella Blueprint Reclaim: ` 1 each ` = ` 100 Total `\nStella Blueprint Reclaim: ` 1 each ` = ` 100 Total `",
+              "isInline": false
+            },
+            {
+              "name": "Requirements",
+              "value": "Stella Research: ` 1 `\nShipyard: ` 27 `",
+              "isInline": true
+            },
+            {
+              "name": "Expansion",
+              "value": "Max Tiers: ` 9 `\nMax Levels: ` 45 `",
+              "isInline": true
+            },
+            {
+              "name": "Scrapyard",
+              "value": "Can Scrap? ` Yes `\nReq. Lvl: ` 27 `",
+              "isInline": true
+            },
+            {
+              "name": "Build Cost Tiers: 2 to 9",
+              "value": "`\u00A0256,679\u00A0Uncommon\u00A0Uranium\u00A0`\n`\u00A0\u00A049,982\u00A0Rare\u00A0Uranium\u00A0`\n`\u00A0\u00A012,604\u00A0Epic\u00A0Uranium\u00A0`",
+              "isInline": false
+            },
+            {
+              "name": "Total Experience",
+              "value": "`  2,556,800  `",
+              "isInline": false
+            },
+            {
+              "name": "Upgradable Components",
+              "value": "```\n                 Tiers\nComponent        Min Max Qty\n-----------------------------\nEnergy Weapon      2   9   2\nKinetic Weapon     2   9   1\nShield             2   9   1\nArmor              2   9   1\nImpulse Engine     2   9   1\n-----------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "**NOTE:**",
+              "value": "* **Ship Total Tiering Cost & Time** displayed are *base values only*. Buffs/Bonuses are player specific and *are not applied*.",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861678476130385921",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:42:37.921+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!scrap stella",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861678476822052865",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:42:38.086+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**STELLA   -   RECYCLING RESOURCES & TIME\nRogue   -   3★   Uncommon   Battleship**",
+          "url": null,
+          "timestamp": "2021-07-05T18:42:38.037+00:00",
+          "description": "**LEVEL :** ` 45 `\n**TIER :** ` 9 `",
+          "color": "#2ECC71",
+          "thumbnail": {
+            "url": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\prefab_ship_095_thumb_border-B939C.png",
+            "width": 256,
+            "height": 256
+          },
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Scrapyard",
+              "value": "Can Scrap? ` Yes `\nReq. Lvl: ` 27 `",
+              "isInline": true
+            },
+            {
+              "name": "Resources",
+              "value": "`\u00A0400,000\u00A0Tritanium\u00A0`\n`\u00A0\u00A028,000\u00A0Dilithium\u00A0`",
+              "isInline": false
+            },
+            {
+              "name": "Resources *(specialized)*",
+              "value": "`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01\u00A0Stella\u00A0Hull\u00A0Scan\u00A0`\n`\u00A0467,220\u00A0Stella\u00A0Particle\u00A0`",
+              "isInline": false
+            },
+            {
+              "name": "Time to Recycle",
+              "value": "Time:\u00A0`1d\u00A00h\u00A00m`\nSeconds:\u00A0`86,400`\u00A0**",
+              "isInline": true
+            },
+            {
+              "name": "NOTE:",
+              "value": "* Scrap time is dependent on the level of your Scrapyard\n* Tier total for Trit & Dil is based on all components upgraded",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861678625992474624",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:43:13.651+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "! upgrade refinery",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861678626424225802",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:43:13.754+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**== Refinery ==**",
+          "url": null,
+          "timestamp": "2021-07-05T18:43:13.706+00:00",
+          "description": "Processes Raw Materials. Refine raw Ore, Crystal or Gas to upgrade your ships.",
+          "color": "#3498DB",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Usage Help",
+              "value": "No building level was specified. Please add a building level, range 1 to 50, to your command.\n\nFor more information, type ` !upgrade help`.",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861679103413452841",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:45:07.477+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "! refinery",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861679103831965716",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:45:07.577+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**== Refinery ==**",
+          "url": null,
+          "timestamp": "2021-07-05T18:45:07.533+00:00",
+          "description": "Processes Raw Materials. Refine raw Ore, Crystal or Gas to upgrade your ships.",
+          "color": "#3498DB",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Usage Help",
+              "value": "No building level was specified. Please add a building level, range 1 to 50, to your command.\n\nFor more information, type ` !upgrade help`.",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861679160338153502",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:45:21.049+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "! Lathim",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861679160782487562",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:45:21.155+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, we require more information... Type !? for help.",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861679283326812160",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:45:50.372+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "! Latinum",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861679283911000084",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:45:50.511+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "** RAW LATINUM  -  SYSTEM LIST **",
+          "url": null,
+          "timestamp": "2021-07-05T18:45:50.446+00:00",
+          "description": "Systems ( Results: 1 to 33 )",
+          "color": "#3498DB",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Maclyyn (22) - Klingon  -  Warp: 16  Mines: [LAT]",
+              "value": "Cillers (25) - Romulan  -  Warp: 18  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "S'mtharz (25) - Federation  -  Warp: 18  Mines: [LAT]",
+              "value": "Yoria-3 (25) - Neutral  -  Warp: 22  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Nasturta (26) - Romulan  -  Warp: 18  Mines: [LAT]",
+              "value": "Ciara (26) - Klingon  -  Warp: 18  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Hann (26) - Federation  -  Warp: 18  Mines: [LAT]",
+              "value": "Hoeven (27) - Klingon  -  Warp: 19  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Biruin (27) - Romulan  -  Warp: 19  Mines: [LAT]",
+              "value": "Lainey (27) - Federation  -  Warp: 19  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Koltiska (28) - Romulan  -  Warp: 19  Mines: [LAT]",
+              "value": "Torra Sedra (28) - Neutral  -  Warp: 22  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Phelan (28) - Klingon  -  Warp: 19  Mines: [LAT]",
+              "value": "Losti (28) - Federation  -  Warp: 19  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Noakyn (30) - Federation  -  Warp: 23  Mines: [LAT]",
+              "value": "H'Atoria (30) - Klingon  -  Warp: 22  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Gradientes (30) - Romulan  -  Warp: 24  Mines: [LAT]",
+              "value": "Sinisser (31) - Federation  -  Warp: 26  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Robeton (31) - Romulan  -  Warp: 26  Mines: [LAT]",
+              "value": "Tullias (31) - Klingon  -  Warp: 26  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Zed Alpha (31) - Neutral  -  Warp: 22  Mines: [LAT]",
+              "value": "Andoria (34) - Federation  -  Warp: 30  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Beta Penthe (34) - Klingon  -  Warp: 33  Mines: [LAT]",
+              "value": "Vendor (34) - Romulan  -  Warp: 32  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Suliban (35) - Neutral  -  Warp: 40  Mines: [LAT]",
+              "value": "Barnard's Star (38) - Federation  -  Warp: 40  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Wlb'puq (38) - Klingon  -  Warp: 40  Mines: [LAT]",
+              "value": "Dessica (39) - Romulan  -  Warp: 39  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Esto (43) ` dark-deep `- Romulan  -  Warp: 75  Mines: [LAT]",
+              "value": "T'ong (43) ` dark-deep `- Klingon  -  Warp: 75  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Almango (43) ` dark-deep `- Federation  -  Warp: 75  Mines: [LAT]",
+              "value": "Leebyrn (46) ` dark-deep `- Federation  -  Warp: 120  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Lu'Kash (46) ` dark-deep `- Klingon  -  Warp: 120  Mines: [LAT]",
+              "value": "[end of list]",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861679325219782727",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:46:00.36+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!chart latium",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861679325488742411",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:46:00.424+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**INFOGRAPHIC CHARTS**",
+          "url": null,
+          "timestamp": "2021-07-05T18:46:00.433+00:00",
+          "description": "```asciidoc\n== LcarsV2 :: all commands ==\n\nCommand:: !latium\n\n :: Sorry Commander, I'm not aware of that command.\n\n== end all commands help ==\n\n[ Use !? (command_name) for more details. ]\n\n```",
+          "color": "#E67E22",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861679368991801364",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:46:10.796+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!chart latinum",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861679369172025375",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:46:10.839+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**LATINUM**\nLatinum refining by D'Vor Tier",
+          "url": null,
+          "timestamp": "2021-07-05T18:46:10.855+00:00",
+          "description": "",
+          "color": "#E67E22",
+          "image": {
+            "url": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\Latinum_Refinery8_2020-8-73C0E.png",
+            "width": 819,
+            "height": 537
+          },
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "How to View",
+              "value": "To view, click or tap the image. To download:",
+              "isInline": false
+            },
+            {
+              "name": "How to Download",
+              "value": "* PC/MAC: Right-click > Open Link. Will open in your web browser.\n* Android/iOS: Tap to view, then tap the Download arrow",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861679692524158976",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:47:27.932+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "! Chart refinery",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861679692763103264",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:47:27.989+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**REFINERYRATES**\nG3 and G4 Materials and Ship Parts Refining Rates by Operations Level",
+          "url": null,
+          "timestamp": "2021-07-05T18:47:27.983+00:00",
+          "description": "",
+          "color": "#E67E22",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "How to View",
+              "value": "To view, click or tap the image. To download:",
+              "isInline": false
+            },
+            {
+              "name": "How to Download",
+              "value": "* PC/MAC: Right-click > Open Link. Will open in your web browser.\n* Android/iOS: Tap to view, then tap the Download arrow",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861679693500907571",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:47:28.165+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**GRADE 3 REFINING**",
+          "url": null,
+          "timestamp": "2021-07-05T18:47:28.121+00:00",
+          "description": "",
+          "color": "#E67E22",
+          "image": {
+            "url": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\unknown-EE254.png",
+            "width": 785,
+            "height": 417
+          },
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861679693852966952",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:47:28.249+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**GRADE 4 REFINING**",
+          "url": null,
+          "timestamp": "2021-07-05T18:47:28.203+00:00",
+          "description": "",
+          "color": "#E67E22",
+          "image": {
+            "url": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\unknown-E170E.png",
+            "width": 969,
+            "height": 802
+          },
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861679848091418634",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:48:05.022+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!chart r&d",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861679848577957908",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:48:05.138+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**INFOGRAPHIC CHARTS**",
+          "url": null,
+          "timestamp": "2021-07-05T18:48:05.093+00:00",
+          "description": "```asciidoc\n== LcarsV2 :: all commands ==\n\nCommand:: !r&d\n\n :: Sorry Commander, I'm not aware of that command.\n\n== end all commands help ==\n\n[ Use !? (command_name) for more details. ]\n\n```",
+          "color": "#E67E22",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861679885043105793",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:48:13.832+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!chart research",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861679886006485013",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:48:14.062+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**INFOGRAPHIC CHARTS**",
+          "url": null,
+          "timestamp": "2021-07-05T18:48:13.979+00:00",
+          "description": "```asciidoc\n== LcarsV2 :: all commands ==\n\nCommand:: !research\n\n :: Sorry Commander, I'm not aware of that command.\n\n== end all commands help ==\n\n[ Use !? (command_name) for more details. ]\n\n```",
+          "color": "#E67E22",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861680217345097818",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:49:33.059+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!chart outlaw",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861680217818136596",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:49:33.172+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**INFOGRAPHIC CHARTS**",
+          "url": null,
+          "timestamp": "2021-07-05T18:49:33.112+00:00",
+          "description": "```asciidoc\n== LcarsV2 :: all commands ==\n\nCommand:: !outlaw\n\n :: Sorry Commander, I'm not aware of that command.\n\n== end all commands help ==\n\n[ Use !? (command_name) for more details. ]\n\n```",
+          "color": "#E67E22",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861680987708063755",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:52:36.728+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!chart list",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861680988488204318",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:52:36.914+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**INFOGRAPHIC CHARTS**",
+          "url": null,
+          "timestamp": "2021-07-05T18:52:36.858+00:00",
+          "description": "```asciidoc\n== LcarsV2 :: all commands ==\n\nCommand:: !list\n\n :: Sorry Commander, I'm not aware of that command.\n\n== end all commands help ==\n\n[ Use !? (command_name) for more details. ]\n\n```",
+          "color": "#E67E22",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861681012044333076",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:52:42.53+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!list",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861681012526678076",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:52:42.645+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**SEARCH RESEARCH LIST   **",
+          "url": null,
+          "timestamp": "2021-07-05T18:52:42.588+00:00",
+          "description": "",
+          "color": "#3498DB",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Researches - 1 to 10",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\n1⇴ Isogen Extraction    1 T    5,250    5,250\n2⇴ Isogen Extraction    1 T    9,500    9,500\n3⇴ Isogen Extraction    1 T   15,500   15,500\n3★ Crystal Extractor    1 A    9,500    9,500\n3★ Gas Extractor        1 A    9,500    9,500\n3★ Ore Extractor        1 A    9,500    9,500\n4★ Assembly Line        1 S   71,000   71,000\n4★ Battleship Defense   1 S   76,000   76,000\n4★ Battleship Defensi   1 S   82,000   82,000\n4★ Battleship Penetra   1 C   66,000   66,000\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 11 to 20",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\n4★ Battleship Pillage   1 S   94,000   94,000\n4★ Battleship Pure Di   1 S   72,000   72,000\n4★ Battleship Pure Or   1 S   72,000   72,000\n4★ Battleship Pure Tr   1 S   72,000   72,000\n4★ Battleship Regener   1 C   71,000   71,000\n4★ Battleship Repair    1 S   85,000   85,000\n4★ Battleship Station   1 S   89,000   89,000\n4★ Battleship Swift R   1 S   95,000   95,000\n4★ Battleship Weaponr   1 C   95,000   95,000\n4★ Crystal Prospector   1 A   30,500   30,500\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 21 to 30",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\n4★ Energy Blast         1 C  102,000  102,000\n4★ Evasive Intercepto   1 C   61,000   61,000\n4★ Evasive Maneuvers    1 C   94,000   94,000\n4★ Explorer Barriers    1 C   48,000   48,000\n4★ Explorer Defense F   1 S   76,000   76,000\n4★ Explorer Defensive   1 S   82,000   82,000\n4★ Explorer Pillager    1 S   94,000   94,000\n4★ Explorer Pure Dili   1 S   72,000   72,000\n4★ Explorer Pure Gas    1 S   72,000   72,000\n4★ Explorer Pure Trit   1 S   72,000   72,000\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 31 to 40",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\n4★ Explorer Regenerat   1 C   71,000   71,000\n4★ Explorer Repair Co   1 S   85,000   85,000\n4★ Explorer Station P   1 S   89,000   89,000\n4★ Explorer Swift Rep   1 S   95,000   95,000\n4★ Explorer Targeting   1 C   66,000   66,000\n4★ Explorer Weaponry    1 C   95,000   95,000\n4★ Fortified Battlesh   1 C   61,000   61,000\n4★ Gas Prospector       1 A   30,500   30,500\n4★ Hull Density         1 C   48,000   48,000\n4★ Interceptor Armor    1 C   66,000   66,000\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 41 to 50",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\n4★ Interceptor Defens   1 S   76,000   76,000\n4★ Interceptor Defens   1 S   82,000   82,000\n4★ Interceptor Pillag   1 S   94,000   94,000\n4★ Interceptor Pure C   1 S   72,000   72,000\n4★ Interceptor Pure D   1 S   72,000   72,000\n4★ Interceptor Pure T   1 S   72,000   72,000\n4★ Interceptor Regene   1 C   71,000   71,000\n4★ Interceptor Repair   1 S   85,000   85,000\n4★ Interceptor Statio   1 S   89,000   89,000\n4★ Interceptor Swift    1 S   95,000   95,000\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 51 to 60",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\n4★ Interceptor Weapon   1 C   95,000   95,000\n4★ Kinetic Shockwave    1 C  102,000  102,000\n4★ Offensive Strategi   1 C   95,000   95,000\n4★ Ore Prospector       1 A   30,500   30,500\n4★ Piercing Shots       1 C   76,000   76,000\n4★ Pillager Critical    1 S  125,000  125,000\n4★ Reinforced Bulkhea   1 C   94,000   94,000\n4★ Shield Efficiency    1 C   94,000   94,000\n4★ Shield Modulation    1 C   52,000   52,000\n4★ Shield Penetration   1 C   76,000   76,000\n---------------------------------------------\n```",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861681012610039859",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:52:42.665+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**SEARCH RESEARCH LIST   cont...**",
+          "url": null,
+          "timestamp": "2021-07-05T18:52:42.685+00:00",
+          "description": "",
+          "color": "#3498DB",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Researches - 61 to 70",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\n4★ Ship Bombardment     1 S  150,000  150,000\n4★ Ship Defense Forma   1 S  143,000  143,000\n4★ Siege Warfare        1 C  150,000  150,000\n4★ Survey Pure Dilith   1 S   78,000   78,000\n4★ Survey Pure Materi   1 S   78,000   78,000\n4★ Survey Pure Tritan   1 S   78,000   78,000\n4★ Survey Repair Cost   1 S   65,000   65,000\n4★ Survey Repair Spee   1 S   65,000   65,000\n4★ Tactical Battleshi   1 C   60,000   60,000\n4★ Tactical Explorers   1 C   60,000   60,000\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 71 to 80",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\n4★ Tactical Intercept   1 C   60,000   60,000\n4★ Targeting Array      1 C   76,000   76,000\n4★ Tier Up Boost        1 S   71,000   71,000\nAdaptive Weaponry       1 C  110,000  110,000\nAdvanced Research       1 T   15,500   15,500\nAdvanced Training       1 G   10,500   10,500\nAdvantage Battleship    1 A   23,500   23,500\nAdvantage Explorer      1 A   23,500   23,500\nAdvantage Interceptor   1 A   23,500   23,500\nAnarchist Weaponry      1 O   13,500   13,500\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 81 to 90",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nApex Chop Shop          1 O   10,500   10,500\nApex Construction Spe   1 S   15,500   15,500\nApex Getaway Pilots     1 O    3,600    3,600\nApex Research Speed     1 S   15,500   15,500\nApex Rogue Notoriety    1 O   15,500   15,500\nArmada Accuracy         1 O   46,500   46,500\nArmada Armor Piercing   1 O   46,500   46,500\nArmada Defense          1 O   46,500   46,500\nArmada Defenses         1 C   66,000   66,000\nArmada Evasion          1 O   46,500   46,500\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 91 to 100",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nArmada Piercing         1 C   66,000   66,000\nArmada Pillager         1 S  100,000  100,000\nArmada Shield Piercin   1 O   46,500   46,500\nArmada Tactics          1 T    5,250    5,250\nArmada Targeting        1 C   85,000   85,000\nAssembly Line           1 S    1,000    1,000\nAssimilated Credit Yi   1 O   27,000   27,000\nAttack Training         1 G   10,500   10,500\nAugmented Credit Yiel   1 O   27,000   27,000\nAugmented Hull          1 O    5,250    5,250\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 101 to 110",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nAugmented Impulse       1 O    6,000    6,000\nAugmented Shields       1 O    5,250    5,250\nAugmented Warp          1 O    6,000    6,000\nAway Team Enviro-suit   1 A      825      825\nAway Team Landing Gea   1 A      490      490\nAway Team Runabout      1 A    8,500    8,500\nAway Team Shuttlecraf   1 A      210      210\nBattle Tactics          1 C      300      300\nBattleship Advanced P   1 A   15,500   15,500\nBattleship Barrage      1 C  141,000  141,000\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 111 to 120",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nBattleship Bartering    1 O    4,700    4,700\nBattleship Firepower    1 C   13,250   13,250\nBattleship Focus Shot   1 A   49,500   49,500\nBattleship Hull Boost   1 C    9,250    9,250\nBattleship Hull Integ   1 T    9,500    9,500\nBattleship Nacelles     1 A    4,700    4,700\nBattleship Overcharge   1 A   14,250   14,250\nBattleship Penetratio   1 C   10,750   10,750\nBattleship Regenerati   1 G   10,750   10,750\nBattleship Repair Cos   1 T   15,500   15,500\n---------------------------------------------\n```",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861681013280342046",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:52:42.825+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**SEARCH RESEARCH LIST   cont...**",
+          "url": null,
+          "timestamp": "2021-07-05T18:52:42.768+00:00",
+          "description": "",
+          "color": "#3498DB",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Researches - 121 to 130",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nBattleship Repairs      1 S    3,500    3,500\nBattleship Retaliatio   1 S   82,000   82,000\nBattleship Shields      1 C    9,250    9,250\nBattleship Shields      1 T    9,500    9,500\nBattleship Space Crit   1 C  102,000  102,000\nBattleship Tactics      1 C   11,750   11,750\nBattleship Warfare      1 T    9,500    9,500\nBattleship Warp         1 G   10,500   10,500\nBattleship Weaponry     1 C    4,200    4,200\nBattleships Focus       1 S   12,000   12,000\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 131 to 140",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nBlindsided Assault      1 S  114,000  114,000\nBolstered Hulls         1 O    7,750    7,750\nBolstered Shields       1 O    7,750    7,750\nBuilding Efficiency     1 S    9,250    9,250\nCargo Security          1 T    5,250    5,250\nCharismatic Orders      1 A    7,750    7,750\nConstruction Speed      1 S      650      650\nCrafty Engineering      1 O    3,400    3,400\nCritical Interceptor    1 C    7,750    7,750\nCrystal Building Effi   1 O   17,000   17,000\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 141 to 150",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nCrystal Miner           1 G    5,250    5,250\nCrystal Research Effi   1 O   17,000   17,000\nCultivated Mycelium J   1 G    2,000    2,000\nD'vor Latinum Mining    1 G    7,000    7,000\nD'vor Security Enhanc   1 G    7,000    7,000\nData Miner              1 G    4,000    4,000\nData Storage            1 O    8,250    8,250\nDefense Platform Accu   1 S   66,000   66,000\nDefense Platform Armo   1 S   88,000   88,000\nDefense Platform Defl   1 S   88,000   88,000\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 151 to 160",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nDefense Platform Dodg   1 S   88,000   88,000\nDefense Platform Heal   1 S  110,000  110,000\nDefense Platform Hull   1 S    3,500    3,500\nDefense Platform Hull   1 G   13,250   13,250\nDefense Platform Modu   1 S   66,000   66,000\nDefense Platform Pene   1 S   66,000   66,000\nDefense Platform Shie   1 S    2,900    2,900\nDefense Platform Shie   1 S  110,000  110,000\nDefense Platforms       1 S    2,900    2,900\nDefense Strategy        1 S   38,500   38,500\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 161 to 170",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nDefense Strategy II     1 G   16,000   16,000\nDefense Technology      1 S    5,250    5,250\nDefense Training        1 G   10,500   10,500\nDefensive Strategies    1 C   89,000   89,000\nDefensive Tactics       1 C      240      240\nDepart For the Planet   1 A   15,250   15,250\nDilithium Accelerator   1 S   11,500   11,500\nDilithium Fortificati   1 S   60,000   60,000\nDilithium Fusion        1 S      625      625\nDilithium Holding       1 S    9,500    9,500\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 171 to 180",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nDilithium Hunter        1 G    4,000    4,000\nDilithium Miner         1 G    5,250    5,250\nDilithium Safeguard     1 S    4,200    4,200\nDilithium Security      1 S   29,000   29,000\nDilithium Stockpile     1 S   21,000   21,000\nDilithium Storage       1 S      850      850\nDilithium Upgrades      1 O   92,000   92,000\nEclipse Defenses        1 O   21,000   21,000\nEclipse Targeting       1 O   21,000   21,000\nEclipse Weakpoints      1 O   21,000   21,000\n---------------------------------------------\n```",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861681013573550081",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:52:42.895+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**SEARCH RESEARCH LIST   cont...**",
+          "url": null,
+          "timestamp": "2021-07-05T18:52:42.885+00:00",
+          "description": "",
+          "color": "#3498DB",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Researches - 181 to 190",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nEffective Constructio   1 T   15,500   15,500\nEfficient Constructio   1 T    9,500    9,500\nEfficient Research      1 T    9,500    9,500\nEfficient Ship Upgrad   1 T    9,500    9,500\nEmergency Defenses      1 G    8,000    8,000\nEnergy Blast            1 C    2,900    2,900\nEnergy Guerilla Warfa   1 O    5,250    5,250\nEnhanced Defenses       1 T    5,250    5,250\nEnhanced Piercing       1 T    5,250    5,250\nEnhanced Warp Cores     1 G   96,000   96,000\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 191 to 200",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nEnhanced Weaponry       1 O   46,500   46,500\nEvasive Interceptors    1 C    2,800    2,800\nEvasive Klingons        1 C   18,000   18,000\nEvasive Maneuvers       1 C      420      420\nExpert Repairs          1 T   15,500   15,500\nExploit Weakpoints      1 C    1,325    1,325\nExploit Weakpoints II   1 G   26,500   26,500\nExplorer Advanced Pie   1 A   15,500   15,500\nExplorer Barrage        1 C  141,000  141,000\nExplorer Barriers       1 C    2,800    2,800\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 201 to 210",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nExplorer Bartering      1 O    4,700    4,700\nExplorer Firepower      1 C   10,250   10,250\nExplorer Focus Shot     1 A   49,500   49,500\nExplorer Hull Boost     1 C    7,250    7,250\nExplorer Hull Integri   1 T    9,500    9,500\nExplorer Nacelles       1 A    4,700    4,700\nExplorer Overcharge     1 A   14,250   14,250\nExplorer Regeneration   1 G   10,750   10,750\nExplorer Repair Costs   1 T   15,500   15,500\nExplorer Repairs        1 S    2,400    2,400\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 211 to 220",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nExplorer Retaliation    1 S   82,000   82,000\nExplorer Shields        1 C    7,250    7,250\nExplorer Shields        1 T    9,500    9,500\nExplorer Space Critic   1 C  102,000  102,000\nExplorer Tactics        1 C    9,000    9,000\nExplorer Targeting Ar   1 C    8,250    8,250\nExplorer Warfare        1 T    9,500    9,500\nExplorer Warp           1 G   10,500   10,500\nExplorer Weaponry       1 C    4,200    4,200\nExplorers Focus         1 S   12,000   12,000\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 221 to 230",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nFaction Agent           1 A    5,750    5,750\nFaction Consul          1 A    1,800    1,800\nFactory Line            1 A   26,000   26,000\nFederation Apprentice   1 G   10,500   10,500\nFederation Armada Def   1 C   94,000   94,000\nFederation Demolition   1 A   24,000   24,000\nFederation Devotion     1 G   13,500   13,500\nFederation Firepower    1 C   64,000   64,000\nFederation Gas Miner    1 G   23,000   23,000\nFederation Graviton S   1 A    9,500    9,500\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 231 to 240",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nFederation Hauler       1 A   26,000   26,000\nFederation Notoriety    1 A    7,750    7,750\nFederation Pure Gas     1 G   25,500   25,500\nFederation Repair Cos   1 S   28,500   28,500\nFederation Repair Spe   1 S   78,000   78,000\nFederation Ship Struc   1 S   13,250   13,250\nFederation Vulnerabil   1 C  125,000  125,000\nFederation Weakpoints   1 C   19,000   19,000\nFighting Dirty          1 O    8,000    8,000\nFleet Commander         1 S      725      725\n---------------------------------------------\n```",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861681040454844425",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:52:49.304+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**SEARCH RESEARCH LIST   cont...**",
+          "url": null,
+          "timestamp": "2021-07-05T18:52:43.011+00:00",
+          "description": "",
+          "color": "#3498DB",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Researches - 241 to 250",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nFortified Battleships   1 C    2,800    2,800\nFortified Romulans      1 C   18,000   18,000\nFrequency Modulator C   1 G    7,500    7,500\nG4 Impulse              1 O   85,000   85,000\nG4 Ship Repairs         1 O   66,000   66,000\nGas Building Efficien   1 O   26,500   26,500\nGas Miner               1 G    5,250    5,250\nGas Research Efficien   1 O   26,500   26,500\nGetaway Pilots II       1 O   52,000   52,000\nGrade 2 Ship Research   1 C    1,175    1,175\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 251 to 260",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nGrade 3 Ship Research   1 C    8,000    8,000\nGrade 4 Ship Research   1 C   78,000   78,000\nHideout Defenses        1 O   17,000   17,000\nHideout Weaponry        1 O   17,000   17,000\nHighway Robbery         1 O    5,250    5,250\nHostile Tactics         1 T    5,250    5,250\nHull Density            1 C      240      240\nHull Durability         1 G   10,750   10,750\nHull Stability          1 T   15,500   15,500\nHypospray Technology    1 A    4,700    4,700\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 261 to 270",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nImmovable Object        1 O   46,500   46,500\nInfamy and Heroism      1 A   15,500   15,500\nInterceptor Advanced    1 A   15,500   15,500\nInterceptor Armor Pie   1 C    6,250    6,250\nInterceptor Barrage     1 C  141,000  141,000\nInterceptor Bartering   1 O    4,700    4,700\nInterceptor Focus       1 S   12,000   12,000\nInterceptor Focus Sho   1 A   49,500   49,500\nInterceptor Hull Boos   1 C    5,250    5,250\nInterceptor Hull Inte   1 T    9,500    9,500\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 271 to 280",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nInterceptor Nacelles    1 A    4,700    4,700\nInterceptor Overcharg   1 A   14,250   14,250\nInterceptor Regenerat   1 G   10,750   10,750\nInterceptor Repair Co   1 T   15,500   15,500\nInterceptor Repairs     1 S    1,600    1,600\nInterceptor Retaliati   1 S   82,000   82,000\nInterceptor Shields     1 C    5,250    5,250\nInterceptor Shields     1 T    9,500    9,500\nInterceptor Space Cri   1 C  102,000  102,000\nInterceptor Tactics     1 C    6,750    6,750\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 281 to 290",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nInterceptor Warfare     1 T    9,500    9,500\nInterceptor Warp        1 G   10,500   10,500\nInterceptor Weaponry    1 C    4,200    4,200\nKinetic Guerilla Warf   1 O    5,250    5,250\nKinetic Shockwave       1 C    2,900    2,900\nKlingon Apprentice      1 G   10,500   10,500\nKlingon Armada Defect   1 C   94,000   94,000\nKlingon Crystal Miner   1 G   23,000   23,000\nKlingon Demolition      1 A   24,000   24,000\nKlingon Devotion        1 G   13,500   13,500\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 291 to 300",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nKlingon Firepower       1 C   64,000   64,000\nKlingon Graviton Shie   1 A    9,500    9,500\nKlingon Hauler          1 A   26,000   26,000\nKlingon Notoriety       1 A    7,750    7,750\nKlingon Pure Crystal    1 G   25,500   25,500\nKlingon Repair Costs    1 S   28,500   28,500\nKlingon Repair Speed    1 S   78,000   78,000\nKlingon Ship Structur   1 S   13,250   13,250\nKlingon Vulnerability   1 C  125,000  125,000\nKlingon Weakpoints      1 C   19,000   19,000\n---------------------------------------------\n```",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861681040761815110",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:52:49.377+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**SEARCH RESEARCH LIST   cont...**",
+          "url": null,
+          "timestamp": "2021-07-05T18:52:49.336+00:00",
+          "description": "",
+          "color": "#3498DB",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Researches - 301 to 310",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nLightweight Engines     1 O    4,000    4,000\nMerciless Outlaw        1 O    7,750    7,750\nMiner Offense           1 A   14,250   14,250\nMining Bunker           1 A   14,250   14,250\nModulated Federation    1 C   18,000   18,000\nMudd's Mudd             1 O  120,000  120,000\nMulti-Adaptive Shield   1 C  110,000  110,000\nNanoprobe Hunter        1 G    7,000    7,000\nOffensive Strategies    1 C   89,000   89,000\nOfficer Conditioning    1 T    5,250    5,250\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 311 to 320",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nOptimized Constructio   1 T   15,500   15,500\nOptimized Research      1 T   15,500   15,500\nOptimized Ship Upgrad   1 T   15,500   15,500\nOre Building Efficien   1 O   39,000   39,000\nOre Miner               1 G    5,250    5,250\nOre Research            1 O   39,000   39,000\nOut of the Darkness     1 O  120,000  120,000\nOutlaw Mechanics        1 O    7,000    7,000\nParsteel Accelerator    1 S   11,500   11,500\nParsteel Fortificatio   1 S   60,000   60,000\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 321 to 330",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nParsteel Fusion         1 S      310      310\nParsteel Holding        1 S    9,500    9,500\nParsteel Hunter         1 G    4,000    4,000\nParsteel Miner          1 G    5,250    5,250\nParsteel Safeguarding   1 S    2,000    2,000\nParsteel Security       1 S   29,000   29,000\nParsteel Stockpile      1 S   21,000   21,000\nParsteel Storage        1 S      420      420\nPiercing Shots          1 C    1,300    1,300\nPinpoint Targeting      1 C    1,600    1,600\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 331 to 340",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nPlutonium Bartering I   1 O    3,100    3,100\nPlutonium Bartering I   1 O    5,250    5,250\nPlutonium Bartering I   1 O   10,500   10,500\nPrime 3★ Crystal Refi   1 G   64,000   64,000\nPrime 3★ Gas Refining   1 G   71,000   71,000\nPrime 3★ Ore Refining   1 G   87,000   87,000\nPrime Active Nanoprob   1 G   30,000   30,000\nPrime Armada Damage     1 C  196,000  196,000\nPrime Augment Favor     1 O   45,000   45,000\nPrime Away Team Exten   1 A    3,000    3,000\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 341 to 350",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nPrime Battleship Manu   1 S  230,000  230,000\nPrime Borg Rewards      1 G   20,000   20,000\nPrime Build Speed       1 S    3,200    3,200\nPrime Capture Node Da   1 T  117,000  117,000\nPrime Critical Hit Ch   1 C  265,000  265,000\nPrime Critical Hit Da   1 C  210,000  210,000\nPrime Damage            1 C    1,200    1,200\nPrime Damage Vs Playe   1 T   40,000   40,000\nPrime Defenses          1 C   20,000   20,000\nPrime Explorer Manufa   1 S  230,000  230,000\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 351 to 360",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nPrime Hulls             1 C    3,200    3,200\nPrime Interceptor Man   1 S  230,000  230,000\nPrime Latinum Refinin   1 G   38,000   38,000\nPrime Materials Extra   1 A   23,500   23,500\nPrime Maximum Warp      1 A   65,000   65,000\nPrime Officers          1 G   23,500   23,500\nPrime Piercing          1 C   20,000   20,000\nPrime Protected Cargo   1 T   40,000   40,000\nPrime Protection        1 S    8,750    8,750\nPrime Repair Costs      1 S   20,000   20,000\n---------------------------------------------\n```",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861681041416388649",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:52:49.533+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**SEARCH RESEARCH LIST   cont...**",
+          "url": null,
+          "timestamp": "2021-07-05T18:52:49.424+00:00",
+          "description": "",
+          "color": "#3498DB",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Researches - 361 to 370",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nPrime Repair Speed      1 S   20,000   20,000\nPrime Research Speed    1 S    3,200    3,200\nPrime Resources         1 S    1,600    1,600\nPrime Rogue Credit Yi   1 O  117,000  117,000\nPrime Shields           1 C    3,200    3,200\nPrime Stella Efficien   1 O   79,000   79,000\nPrime Survey Manufact   1 S  196,000  196,000\nProtected Cargo Exten   1 A    9,500    9,500\nPure Crystal            1 G   26,500   26,500\nPure Dilithium          1 S    7,750    7,750\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 371 to 380",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nPure Gas                1 G   26,500   26,500\nPure Ore                1 G   26,500   26,500\nPure Parts Battleship   1 G    5,250    5,250\nPure Parts Explorer     1 G    5,250    5,250\nPure Parts Intercepto   1 G    5,250    5,250\nPure Tritanium          1 S    7,750    7,750\nRapid Construction      1 S   72,000   72,000\nRapid Research          1 S  124,000  124,000\nReactive Damage         1 C   78,000   78,000\nReactive Defenses       1 C   78,000   78,000\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 381 to 390",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nReactive Survey Damag   1 C   71,000   71,000\nReactive Survey Defen   1 C   71,000   71,000\nReinforced Bulkheads    1 C      420      420\nRepair Diagnostics      1 S    1,175    1,175\nRerouting to Shields    1 A    4,700    4,700\nResearch Expert         1 S    9,500    9,500\nResearch Optimization   1 S    2,300    2,300\nResearch Pure Resourc   1 S   99,000   99,000\nRogue Hulls             1 O   13,500   13,500\nRogue Shields           1 O   13,500   13,500\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 391 to 400",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nRogue Tactics           1 O   31,000   31,000\nRomulan Apprentice      1 G   10,500   10,500\nRomulan Armada Defect   1 C   94,000   94,000\nRomulan Demolition      1 A   24,000   24,000\nRomulan Devotion        1 G   13,500   13,500\nRomulan Firepower       1 C   64,000   64,000\nRomulan Fortitude       1 C   30,000   30,000\nRomulan Graviton Shie   1 A    9,500    9,500\nRomulan Hauler          1 A   26,000   26,000\nRomulan Notoriety       1 A    7,750    7,750\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 401 to 410",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nRomulan Ore Miner       1 G   23,000   23,000\nRomulan Pure Ore        1 G   25,500   25,500\nRomulan Repair Costs    1 S   28,500   28,500\nRomulan Repair Speed    1 S   78,000   78,000\nRomulan Ship Structur   1 S   13,250   13,250\nRomulan Vulnerability   1 C  125,000  125,000\nRomulan Weakpoints      1 C   19,000   19,000\nRotating Frequencies    1 C  110,000  110,000\nSelf-Replicating Syst   1 A   26,000   26,000\nShield Efficiency       1 C      420      420\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 411 to 420",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nShield Enhancements     1 T   15,500   15,500\nShield Modification     1 G   10,750   10,750\nShield Modulation       1 C      320      320\nShield Penetration      1 C    1,300    1,300\nShip Component Effici   1 O   26,500   26,500\nShuttlecraft Mk. I Fr   1 A    3,000    3,000\nShuttlecraft Mk. II F   1 A    5,250    5,250\nShuttlecraft Mk. III    1 A    6,500    6,500\nShuttlecraft Mk. IV F   1 A    7,750    7,750\nShuttlecraft Mk. V Fr   1 A    7,750    7,750\n---------------------------------------------\n```",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861681041906597939",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:52:49.65+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**SEARCH RESEARCH LIST   cont...**",
+          "url": null,
+          "timestamp": "2021-07-05T18:52:49.601+00:00",
+          "description": "",
+          "color": "#3498DB",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Researches - 421 to 430",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nShuttlecraft Mk. VI F   1 A   14,000   14,000\nSiege Warfare           1 C   61,000   61,000\nSneaky Backhander       1 O  104,000  104,000\nSpace Critical Resist   1 G   26,500   26,500\nSpecial Assignments:    1 A    3,800    3,800\nSpecial Assignments:    1 A    2,700    2,700\nSpecial Assignments:    1 A      700      700\nStation Accuracy        1 S   10,750   10,750\nStation Armor Piercin   1 S   10,750   10,750\nStation Defenses        1 S    1,600    1,600\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 431 to 440",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nStation Destruction     1 C   82,000   82,000\nStation Piercing        1 C   20,500   20,500\nStation Pure Resource   1 S   91,000   91,000\nStation Sabotage        1 C   89,000   89,000\nStation Shield Pierci   1 S   10,750   10,750\nStation Targeting       1 O   26,500   26,500\nStation Weaponry        1 S    4,200    4,200\nStella Defenses         1 O    5,250    5,250\nStella Hull             1 O    3,400    3,400\nStella Piercing         1 O    5,250    5,250\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 441 to 450",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nStella Research         1 O   37,500   37,500\nStella Targeting        1 O    7,750    7,750\nStella Warp Drive       1 O    3,400    3,400\nStella Weaponry         1 O    3,400    3,400\nStrategic Exploits      1 O   26,500   26,500\nStrength of Kahless     1 C   30,000   30,000\nSurvey Defenses         1 C   71,000   71,000\nSurvey Firepower        1 C    2,400    2,400\nSurvey Hull Integrity   1 C    1,600    1,600\nSurvey Nacelles         1 A    4,700    4,700\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 451 to 460",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nSurvey Repair Costs     1 G    6,750    6,750\nSurvey Repairs          1 G    6,750    6,750\nSurvey Security         1 G    6,750    6,750\nSurvey Shield Array     1 C    1,600    1,600\nSurvey Shield Array I   1 C   56,500   56,500\nSurvey Warp             1 G    5,250    5,250\nSwarm Fortification     1 G   10,750   10,750\nSwarm Jammer            1 G   10,750   10,750\nSwarm Targeting         1 G   10,750   10,750\nSwarm Weakpoints        1 G   10,750   10,750\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 461 to 470",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nSynchronized Crew       1 A    7,750    7,750\nTactical Aggression     1 A    4,700    4,700\nTargeting Array         1 C    1,300    1,300\nTerritory Challenger    1 T    9,500    9,500\nTerritory Conqueror     1 T   15,500   15,500\nThorough Scanning       1 T    5,250    5,250\nTier-Up Boost           1 S   14,000   14,000\nTransneural Blocker     1 C  110,000  110,000\nTransport Capacity      1 A    9,500    9,500\nTritanium Accelerator   1 S   11,500   11,500\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 471 to 480",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nTritanium Fortificati   1 S   60,000   60,000\nTritanium Fusion        1 S      400      400\nTritanium Holding       1 S    9,500    9,500\nTritanium Hunter        1 G    4,000    4,000\nTritanium Miner         1 G    5,250    5,250\nTritanium Safeguard     1 S    2,900    2,900\nTritanium Security      1 S   29,000   29,000\nTritanium Stockpile     1 S   21,000   21,000\nTritanium Storage       1 S      525      525\nTritanium Upgrades      1 O   92,000   92,000\n---------------------------------------------\n```",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861681042355257364",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:52:49.757+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**SEARCH RESEARCH LIST   cont...**",
+          "url": null,
+          "timestamp": "2021-07-05T18:52:49.687+00:00",
+          "description": "",
+          "color": "#3498DB",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Researches - 481 to 490",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nUnlock Armada Control   1 S   20,500   20,500\nUnlock Astronautics     1 S    1,500    1,500\nUnlock Envoy            1 S    7,750    7,750\nUnlock Epic Assignmen   1 A   12,000   12,000\nUnlock Fortunate        1 S    1,325    1,325\nUnlock Foundry          1 S   18,500   18,500\nUnlock Horizon          1 S   30,000   30,000\nUnlock Kehra            1 C   14,750   14,750\nUnlock Kumari           1 C   26,000   26,000\nUnlock Orion Corvette   1 C      675      675\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 491 to 500",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nUnlock Phindra          1 C    2,300    2,300\nUnlock Rare Assignmen   1 A    2,700    2,700\nUnlock Refinery         1 S    1,900    1,900\nUnlock Science Labs     1 S   18,500   18,500\nUnlock Scrapyard        1 S   12,000   12,000\nUnlock Ship Hangar      1 S    8,750    8,750\nUnlock Shuttle Bay      1 S    1,250    1,250\nUnlock Talla            1 C    5,250    5,250\nUnlock Technology Lab   1 S   18,500   18,500\nUnlock Turas            1 C    3,600    3,600\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 501 to 510",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nUnlock Uncommon Assig   1 A      575      575\nUnlock Vahklas          1 C   19,750   19,750\nUnlock Vaults           1 S    6,250    6,250\nUnstoppable Battleshi   1 A   15,500   15,500\nUnstoppable Explorers   1 A   15,500   15,500\nUnstoppable Intercept   1 A   15,500   15,500\nUSS Discovery Impulse   1 G    2,250    2,250\nUSS Discovery Summoni   1 G   19,000   19,000\nUSS Discovery Warp Ra   1 G    5,250    5,250\nUSS Franklin Impulse    1 G    7,500    7,500\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Researches - 511 to 517",
+              "value": "```\n                        Tab        Power\nName                Level | Increase   Actual\n---------------------------------------------\nValiant Defense - Fed   1 S  102,000  102,000\nValiant Defense - Kli   1 S  102,000  102,000\nValiant Defense - Rom   1 S  102,000  102,000\nValor of Starfleet      1 C   30,000   30,000\nWarp Technology         1 G    5,250    5,250\nWeapon Development      1 T   15,500   15,500\nWeapon Refactor         1 G   31,500   31,500\n---------------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Legend",
+              "value": "***Power:*** \n` Increase ` = The difference between research levels\n` Actual ` = Total power for that level",
+              "isInline": false
+            },
+            {
+              "name": "Note",
+              "value": "For a list of abbreviation meanings, use command: ` !abbr `",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861681555486933013",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:54:52.097+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!ore sya",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861681556284112896",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:54:52.287+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No results found Commander. Please restate your request or use  ` !? research `  for detailed help.",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861681626903478273",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:55:09.124+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!armda",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861681627582038036",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:55:09.286+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, we require more information... Type !? for help.",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861681736047525898",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:55:35.146+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "! latium",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861681736411906048",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:55:35.233+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, we require more information... Type !? for help.",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861681833602711592",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:55:58.405+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "! latinum",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861681834068279306",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:55:58.516+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "** RAW LATINUM  -  SYSTEM LIST **",
+          "url": null,
+          "timestamp": "2021-07-05T18:55:58.458+00:00",
+          "description": "Systems ( Results: 1 to 33 )",
+          "color": "#3498DB",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Maclyyn (22) - Klingon  -  Warp: 16  Mines: [LAT]",
+              "value": "Cillers (25) - Romulan  -  Warp: 18  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "S'mtharz (25) - Federation  -  Warp: 18  Mines: [LAT]",
+              "value": "Yoria-3 (25) - Neutral  -  Warp: 22  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Nasturta (26) - Romulan  -  Warp: 18  Mines: [LAT]",
+              "value": "Ciara (26) - Klingon  -  Warp: 18  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Hann (26) - Federation  -  Warp: 18  Mines: [LAT]",
+              "value": "Hoeven (27) - Klingon  -  Warp: 19  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Biruin (27) - Romulan  -  Warp: 19  Mines: [LAT]",
+              "value": "Lainey (27) - Federation  -  Warp: 19  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Koltiska (28) - Romulan  -  Warp: 19  Mines: [LAT]",
+              "value": "Torra Sedra (28) - Neutral  -  Warp: 22  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Phelan (28) - Klingon  -  Warp: 19  Mines: [LAT]",
+              "value": "Losti (28) - Federation  -  Warp: 19  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Noakyn (30) - Federation  -  Warp: 23  Mines: [LAT]",
+              "value": "H'Atoria (30) - Klingon  -  Warp: 22  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Gradientes (30) - Romulan  -  Warp: 24  Mines: [LAT]",
+              "value": "Sinisser (31) - Federation  -  Warp: 26  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Robeton (31) - Romulan  -  Warp: 26  Mines: [LAT]",
+              "value": "Tullias (31) - Klingon  -  Warp: 26  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Zed Alpha (31) - Neutral  -  Warp: 22  Mines: [LAT]",
+              "value": "Andoria (34) - Federation  -  Warp: 30  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Beta Penthe (34) - Klingon  -  Warp: 33  Mines: [LAT]",
+              "value": "Vendor (34) - Romulan  -  Warp: 32  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Suliban (35) - Neutral  -  Warp: 40  Mines: [LAT]",
+              "value": "Barnard's Star (38) - Federation  -  Warp: 40  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Wlb'puq (38) - Klingon  -  Warp: 40  Mines: [LAT]",
+              "value": "Dessica (39) - Romulan  -  Warp: 39  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Esto (43) ` dark-deep `- Romulan  -  Warp: 75  Mines: [LAT]",
+              "value": "T'ong (43) ` dark-deep `- Klingon  -  Warp: 75  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Almango (43) ` dark-deep `- Federation  -  Warp: 75  Mines: [LAT]",
+              "value": "Leebyrn (46) ` dark-deep `- Federation  -  Warp: 120  Mines: [LAT]",
+              "isInline": false
+            },
+            {
+              "name": "Lu'Kash (46) ` dark-deep `- Klingon  -  Warp: 120  Mines: [LAT]",
+              "value": "[end of list]",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861681908567113778",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:56:16.278+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "! latinum chart",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861681908793999371",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:56:16.332+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**LATINUM**\nLatinum refining by D'Vor Tier",
+          "url": null,
+          "timestamp": "2021-07-05T18:56:16.332+00:00",
+          "description": "",
+          "color": "#E67E22",
+          "image": {
+            "url": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\Latinum_Refinery8_2020-8-73C0E.png",
+            "width": 819,
+            "height": 537
+          },
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "How to View",
+              "value": "To view, click or tap the image. To download:",
+              "isInline": false
+            },
+            {
+              "name": "How to Download",
+              "value": "* PC/MAC: Right-click > Open Link. Will open in your web browser.\n* Android/iOS: Tap to view, then tap the Download arrow",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861682059525619722",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:56:52.269+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!raw Latinum chart",
+      "author": {
+        "id": "470096243348209674",
+        "name": "Frhino",
+        "discriminator": "6743",
+        "nickname": "Frhino",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\8bc84145051cf11d6e8a7ac696d6376b-5322B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861682059956584478",
+      "type": "Default",
+      "timestamp": "2021-07-05T18:56:52.372+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**LATINUM**\nLatinum refining by D'Vor Tier",
+          "url": null,
+          "timestamp": "2021-07-05T18:56:52.329+00:00",
+          "description": "",
+          "color": "#E67E22",
+          "image": {
+            "url": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\Latinum_Refinery8_2020-8-73C0E.png",
+            "width": 819,
+            "height": 537
+          },
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "How to View",
+              "value": "To view, click or tap the image. To download:",
+              "isInline": false
+            },
+            {
+              "name": "How to Download",
+              "value": "* PC/MAC: Right-click > Open Link. Will open in your web browser.\n* Android/iOS: Tap to view, then tap the Download arrow",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861683319007870986",
+      "type": "Default",
+      "timestamp": "2021-07-05T19:01:52.553+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!?",
+      "author": {
+        "id": "706968181146648700",
+        "name": "IRON HIDE",
+        "discriminator": "0870",
+        "nickname": "IRON HIDE",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\da6a98ee39270a9ff45e5023c8a7a9f7-CD441.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861683319434117130",
+      "type": "Default",
+      "timestamp": "2021-07-05T19:01:52.655+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**COMMAND HELP**",
+          "url": null,
+          "timestamp": "2021-07-05T19:01:52.596+00:00",
+          "description": "**LCARS**  or \"Library Computer Access Retrieval System\", uses a command entry interface where you can query our expansive database for specific information. All commands available are listed below.",
+          "color": "#E67E22",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "**ENGINEERING**",
+              "value": "```asciidoc\n!armada         :: Armada location & detailed specs\n!badges         :: Information on Officer Badges\n!blueprint      :: Where to find Ship blueprint\n!hostile        :: Summary/detailed hostile information\n!mission        :: List/details & rewards\n!nearest        :: Find nearby systems\n!officer        :: Officer ability, costs, and more\n!parts          :: Information on Ship Parts\n!planet         :: Find system(s) by planet name\n!refit          :: Ship skins and projectiles\n!research       :: Research information\n!resource       :: Summary/detailed mining information\n!route          :: Path between 2 systems\n!scrap          :: Ship rewards and time\n!ship           :: Ship information & upgrades\n!starbase       :: Starbase upgrade information\n!system         :: Summary/detailed system information\n!zone           :: Territory zones in Origin Sector\n```",
+              "isInline": false
+            },
+            {
+              "name": "**ASTROMETRICS**",
+              "value": "```asciidoc\n!abbreviations  :: List of BOT abbreviations\n!alliancelevel  :: Summary/details for Alliance Level\n!chart          :: Charts/infographics maintained/tracked\n!daily          :: Daily Goals & Milestones\n!factionevent   :: Faction event tiers and rewards\n!factionlevel   :: Reputation required for each level\n!factionmessage :: Faction Message Information\n!faq            :: Information on a command or topic\n!hello          :: Start Private session\n!help           :: This help information\n!invite         :: Discord Invite\n!plutonium      :: Plutonium location information\n!pvplevel       :: Player vs player attack levels\n!relocation     :: Where to get Relocation Token\n!triangle       :: Describes the battle triangle\n```",
+              "isInline": false
+            },
+            {
+              "name": "**TEN FORWARD**",
+              "value": "```asciidoc\n!beer           :: Hear a witty one liner from our bot\n!coffee         :: Juice up the Code Monkeys\n!quote          :: Random favorite Star Trek quotes\n!roa            :: Ferengi Rules of Acquisition\n!sleep          :: Tell Code Monkeys to sleep!\n!stardate       :: Converts from/to Kelvin stardate\n!tea            :: Deliver tea to the boss\n!vodka, etc     :: Hear a fun quote\n```",
+              "isInline": false
+            },
+            {
+              "name": "DETAILED COMMAND HELP",
+              "value": "For help with a specific command, use the following:\n```\n!help command_name \n```\nFor example, for more information on the Ship command, like modes, filters, etc, use: `!help ship` or you can shorten it to: `!? ship`",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861683499731255296",
+      "type": "Default",
+      "timestamp": "2021-07-05T19:02:35.641+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "! System torra sedra",
+      "author": {
+        "id": "706968181146648700",
+        "name": "IRON HIDE",
+        "discriminator": "0870",
+        "nickname": "IRON HIDE",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\da6a98ee39270a9ff45e5023c8a7a9f7-CD441.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861683499823398953",
+      "type": "Default",
+      "timestamp": "2021-07-05T19:02:35.663+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**Torra Sedra (28) - Neutral**",
+          "url": null,
+          "timestamp": "2021-07-05T19:02:35.689+00:00",
+          "description": "",
+          "color": "#F1C40F",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Overview",
+              "value": "System Number: ` [S:287155805] `\nEst. Warp Required: ` 22 ` (from level 1 system)\nToken Required: ` Rare Latinum Transwarp Cell `\nSystem Type : ` Terminal `",
+              "isInline": false
+            },
+            {
+              "name": "Region",
+              "value": "Origin space: ` No `\nDarkspace: ` No `\nDeepspace: ` No `",
+              "isInline": false
+            },
+            {
+              "name": "Station Hubs",
+              "value": "` 0 `",
+              "isInline": false
+            },
+            {
+              "name": "Resources",
+              "value": "Raw Latinum: ` 13 ` x  `470,000 `  ( 95/hr )",
+              "isInline": false
+            },
+            {
+              "name": "Planets - Total: 1",
+              "value": "Sedra",
+              "isInline": false
+            },
+            {
+              "name": "Connecting Systems - Total: 1",
+              "value": "```\nLevel Name                 Warp Hubs\n-------------------------------------\n   28 Niawillen              22   No\n-------------------------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Hostiles - Types: 1",
+              "value": "```\nName                     Lvl T     Strength\n----------------------------------------------\nAssimilated Ferengi Miner 28 S    3,133,809\n----------------------------------------------\n```\n***Types:*** ` B ` = Battleship, ` E ` = Explorer, ` I ` = Interceptor, ` S ` = Trader",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861685876375683093",
+      "type": "Default",
+      "timestamp": "2021-07-05T19:12:02.277+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!Augur tier2",
+      "author": {
+        "id": "767376927136153621",
+        "name": "ItsaDragon",
+        "discriminator": "4628",
+        "nickname": "ItsaDragon",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\2919dccac08c07aa212e31e6a8f6947a-DD3D5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861685876458127412",
+      "type": "Default",
+      "timestamp": "2021-07-05T19:12:02.297+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**AUGUR   -   TIER 2\nRomulan   -   3★   Epic   Battleship**",
+          "url": null,
+          "timestamp": "2021-07-05T19:12:02.354+00:00",
+          "description": "",
+          "color": "#9B59B6",
+          "thumbnail": {
+            "url": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\prefab_ship_010_thumb_border-CC248.png",
+            "width": 256,
+            "height": 256
+          },
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Ship Ability",
+              "value": "Obliterate\r\nAs long as the opponent's ship is Burning, if the opponent is hit with the Obliterator weapon, the AUGUR increases all weapon damage by 60.00% (cumulative).\r\n\r\nShip Abilities are always active.\n\n**Ability Bonus by Level**\n```\nLevel      Bonus\n----------------\n    6       60 %\n    7       62 %\n    8       64 %\n    9       66 %\n   10       68 %\n----------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Expansion",
+              "value": "Max Tiers: ` 9 `\nMax Levels: ` 45 `",
+              "isInline": true
+            },
+            {
+              "name": "Scrapyard",
+              "value": "Can Scrap? ` Yes `\nReq. Lvl: ` 50 `",
+              "isInline": true
+            },
+            {
+              "name": "Build Costs",
+              "value": "`\u00A076,300,000\u00A0Tritanium\u00A0`\n`\u00A0\u00A01,754,000\u00A0Dilithium\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02,625\u00A03★\u00A0Common\u00A0Crystal\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A010,550\u00A03★\u00A0Common\u00A0Ore\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01,790\u00A03★\u00A0Battleship\u00A0Parts\u00A0`",
+              "isInline": false
+            },
+            {
+              "name": "Repair Costs",
+              "value": "`\u00A0401,817\u00A0Tritanium\u00A0`\n`\u00A0\u00A015,094\u00A0Dilithium\u00A0`",
+              "isInline": false
+            },
+            {
+              "name": "Build Time",
+              "value": "Time:\u00A0`7d\u00A07h\u00A00m`\nSeconds:\u00A0`630,000`\u00A0**",
+              "isInline": true
+            },
+            {
+              "name": "Repair Time",
+              "value": "Time:\u00A0`1d\u00A01h\u00A04m`\nSeconds:\u00A0`90,270`\u00A0**",
+              "isInline": true
+            },
+            {
+              "name": "Experience By Level",
+              "value": "```\nLevel  XP Required\n------------------\n    6        2,400\n    7        2,900\n    8        3,900\n    9        4,600\n   10        6,000\n------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "**NOTE:**",
+              "value": "* **Ship Total Tiering Cost & Time** displayed are *base values only*. Buffs/Bonuses are player specific and *are not applied*.",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861685957651857418",
+      "type": "Default",
+      "timestamp": "2021-07-05T19:12:21.655+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!augur tier3",
+      "author": {
+        "id": "767376927136153621",
+        "name": "ItsaDragon",
+        "discriminator": "4628",
+        "nickname": "ItsaDragon",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\2919dccac08c07aa212e31e6a8f6947a-DD3D5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861685958263832607",
+      "type": "Default",
+      "timestamp": "2021-07-05T19:12:21.801+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**AUGUR   -   TIER 3\nRomulan   -   3★   Epic   Battleship**",
+          "url": null,
+          "timestamp": "2021-07-05T19:12:21.708+00:00",
+          "description": "",
+          "color": "#9B59B6",
+          "thumbnail": {
+            "url": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\prefab_ship_010_thumb_border-CC248.png",
+            "width": 256,
+            "height": 256
+          },
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Ship Ability",
+              "value": "Obliterate\r\nAs long as the opponent's ship is Burning, if the opponent is hit with the Obliterator weapon, the AUGUR increases all weapon damage by 70.00% (cumulative).\r\n\r\nShip Abilities are always active.\n\n**Ability Bonus by Level**\n```\nLevel      Bonus\n----------------\n   11       70 %\n   12       72 %\n   13       74 %\n   14       76 %\n   15       78 %\n----------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Expansion",
+              "value": "Max Tiers: ` 9 `\nMax Levels: ` 45 `",
+              "isInline": true
+            },
+            {
+              "name": "Scrapyard",
+              "value": "Can Scrap? ` Yes `\nReq. Lvl: ` 50 `",
+              "isInline": true
+            },
+            {
+              "name": "Build Costs",
+              "value": "`\u00A0153,100,000\u00A0Tritanium\u00A0`\n`\u00A0\u00A0\u00A04,175,000\u00A0Dilithium\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A04,000\u00A03★\u00A0Common\u00A0Crystal\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0200\u00A03★\u00A0Uncommon\u00A0Crystal\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A014,700\u00A03★\u00A0Common\u00A0Ore\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0850\u00A03★\u00A0Uncommon\u00A0Ore\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03,615\u00A03★\u00A0Battleship\u00A0Parts\u00A0`",
+              "isInline": false
+            },
+            {
+              "name": "Repair Costs",
+              "value": "`\u00A0499,587\u00A0Tritanium\u00A0`\n`\u00A0\u00A039,766\u00A0Dilithium\u00A0`",
+              "isInline": false
+            },
+            {
+              "name": "Build Time",
+              "value": "Time:\u00A0`14d\u00A014h\u00A00m`\nSeconds:\u00A0`1,260,000`\u00A0**",
+              "isInline": true
+            },
+            {
+              "name": "Repair Time",
+              "value": "Time:\u00A0`1d\u00A03h\u00A045m`\nSeconds:\u00A0`99,942`\u00A0**",
+              "isInline": true
+            },
+            {
+              "name": "Experience By Level",
+              "value": "```\nLevel  XP Required\n------------------\n   11        7,000\n   12        8,500\n   13        9,500\n   14       11,000\n   15       13,500\n------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "**NOTE:**",
+              "value": "* **Ship Total Tiering Cost & Time** displayed are *base values only*. Buffs/Bonuses are player specific and *are not applied*.",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861686101437448212",
+      "type": "Default",
+      "timestamp": "2021-07-05T19:12:55.936+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!augur tier4",
+      "author": {
+        "id": "767376927136153621",
+        "name": "ItsaDragon",
+        "discriminator": "4628",
+        "nickname": "ItsaDragon",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\2919dccac08c07aa212e31e6a8f6947a-DD3D5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861686101847441428",
+      "type": "Default",
+      "timestamp": "2021-07-05T19:12:56.034+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**AUGUR   -   TIER 4\nRomulan   -   3★   Epic   Battleship**",
+          "url": null,
+          "timestamp": "2021-07-05T19:12:55.985+00:00",
+          "description": "",
+          "color": "#9B59B6",
+          "thumbnail": {
+            "url": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\prefab_ship_010_thumb_border-CC248.png",
+            "width": 256,
+            "height": 256
+          },
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Ship Ability",
+              "value": "Obliterate\r\nAs long as the opponent's ship is Burning, if the opponent is hit with the Obliterator weapon, the AUGUR increases all weapon damage by 80.00% (cumulative).\r\n\r\nShip Abilities are always active.\n\n**Ability Bonus by Level**\n```\nLevel      Bonus\n----------------\n   16       80 %\n   17       82 %\n   18       84 %\n   19       86 %\n   20       88 %\n----------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Expansion",
+              "value": "Max Tiers: ` 9 `\nMax Levels: ` 45 `",
+              "isInline": true
+            },
+            {
+              "name": "Scrapyard",
+              "value": "Can Scrap? ` Yes `\nReq. Lvl: ` 50 `",
+              "isInline": true
+            },
+            {
+              "name": "Build Costs",
+              "value": "`\u00A0255,300,000\u00A0Tritanium\u00A0`\n`\u00A0\u00A0\u00A08,750,000\u00A0Dilithium\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A06,600\u00A03★\u00A0Common\u00A0Crystal\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0900\u00A03★\u00A0Uncommon\u00A0Crystal\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A021,900\u00A03★\u00A0Common\u00A0Ore\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03,850\u00A03★\u00A0Uncommon\u00A0Ore\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A06,250\u00A03★\u00A0Battleship\u00A0Parts\u00A0`",
+              "isInline": false
+            },
+            {
+              "name": "Repair Costs",
+              "value": "`\u00A0602,116\u00A0Tritanium\u00A0`\n`\u00A0\u00A050,422\u00A0Dilithium\u00A0`",
+              "isInline": false
+            },
+            {
+              "name": "Build Time",
+              "value": "Time:\u00A0`24d\u00A07h\u00A020m`\nSeconds:\u00A0`2,100,000`\u00A0**",
+              "isInline": true
+            },
+            {
+              "name": "Repair Time",
+              "value": "Time:\u00A0`1d\u00A06h\u00A033m`\nSeconds:\u00A0`110,034`\u00A0**",
+              "isInline": true
+            },
+            {
+              "name": "Experience By Level",
+              "value": "```\nLevel  XP Required\n------------------\n   16       15,000\n   17       17,500\n   18       19,500\n   19       23,000\n   20       25,000\n------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "**NOTE:**",
+              "value": "* **Ship Total Tiering Cost & Time** displayed are *base values only*. Buffs/Bonuses are player specific and *are not applied*.",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861687621092114444",
+      "type": "Default",
+      "timestamp": "2021-07-05T19:18:58.25+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!?",
+      "author": {
+        "id": "476818390259073034",
+        "name": "Crunchyo",
+        "discriminator": "5759",
+        "nickname": "Crunchyo",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\4-4551A.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861687621923242065",
+      "type": "Default",
+      "timestamp": "2021-07-05T19:18:58.448+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**COMMAND HELP**",
+          "url": null,
+          "timestamp": "2021-07-05T19:18:58.4+00:00",
+          "description": "**LCARS**  or \"Library Computer Access Retrieval System\", uses a command entry interface where you can query our expansive database for specific information. All commands available are listed below.",
+          "color": "#E67E22",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "**ENGINEERING**",
+              "value": "```asciidoc\n!armada         :: Armada location & detailed specs\n!badges         :: Information on Officer Badges\n!blueprint      :: Where to find Ship blueprint\n!hostile        :: Summary/detailed hostile information\n!mission        :: List/details & rewards\n!nearest        :: Find nearby systems\n!officer        :: Officer ability, costs, and more\n!parts          :: Information on Ship Parts\n!planet         :: Find system(s) by planet name\n!refit          :: Ship skins and projectiles\n!research       :: Research information\n!resource       :: Summary/detailed mining information\n!route          :: Path between 2 systems\n!scrap          :: Ship rewards and time\n!ship           :: Ship information & upgrades\n!starbase       :: Starbase upgrade information\n!system         :: Summary/detailed system information\n!zone           :: Territory zones in Origin Sector\n```",
+              "isInline": false
+            },
+            {
+              "name": "**ASTROMETRICS**",
+              "value": "```asciidoc\n!abbreviations  :: List of BOT abbreviations\n!alliancelevel  :: Summary/details for Alliance Level\n!chart          :: Charts/infographics maintained/tracked\n!daily          :: Daily Goals & Milestones\n!factionevent   :: Faction event tiers and rewards\n!factionlevel   :: Reputation required for each level\n!factionmessage :: Faction Message Information\n!faq            :: Information on a command or topic\n!hello          :: Start Private session\n!help           :: This help information\n!invite         :: Discord Invite\n!plutonium      :: Plutonium location information\n!pvplevel       :: Player vs player attack levels\n!relocation     :: Where to get Relocation Token\n!triangle       :: Describes the battle triangle\n```",
+              "isInline": false
+            },
+            {
+              "name": "**TEN FORWARD**",
+              "value": "```asciidoc\n!beer           :: Hear a witty one liner from our bot\n!coffee         :: Juice up the Code Monkeys\n!quote          :: Random favorite Star Trek quotes\n!roa            :: Ferengi Rules of Acquisition\n!sleep          :: Tell Code Monkeys to sleep!\n!stardate       :: Converts from/to Kelvin stardate\n!tea            :: Deliver tea to the boss\n!vodka, etc     :: Hear a fun quote\n```",
+              "isInline": false
+            },
+            {
+              "name": "DETAILED COMMAND HELP",
+              "value": "For help with a specific command, use the following:\n```\n!help command_name \n```\nFor example, for more information on the Ship command, like modes, filters, etc, use: `!help ship` or you can shorten it to: `!? ship`",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861688375643996181",
+      "type": "Default",
+      "timestamp": "2021-07-05T19:21:58.149+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!Hello",
+      "author": {
+        "id": "146475252254244866",
+        "name": "Samsonthemad",
+        "discriminator": "3220",
+        "nickname": "Samsonthemad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\a07bb539006745f8184f561392df6647-128EB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861688378789330964",
+      "type": "Default",
+      "timestamp": "2021-07-05T19:21:58.899+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, your Private Access Terminal System (PATS), via Direct Message, has now been activated.",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861694915583016970",
+      "type": "Default",
+      "timestamp": "2021-07-05T19:47:57.392+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "! Augur t6",
+      "author": {
+        "id": "576430429742039057",
+        "name": "OfficerRiker8340",
+        "discriminator": "4315",
+        "nickname": "OfficerRiker8340",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\0-EB806.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861694916048846878",
+      "type": "Default",
+      "timestamp": "2021-07-05T19:47:57.503+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**AUGUR   -   TIER 6\nRomulan   -   3★   Epic   Battleship**",
+          "url": null,
+          "timestamp": "2021-07-05T19:47:57.439+00:00",
+          "description": "",
+          "color": "#9B59B6",
+          "thumbnail": {
+            "url": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\prefab_ship_010_thumb_border-CC248.png",
+            "width": 256,
+            "height": 256
+          },
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Ship Ability",
+              "value": "Obliterate\r\nAs long as the opponent's ship is Burning, if the opponent is hit with the Obliterator weapon, the AUGUR increases all weapon damage by 100.00% (cumulative).\r\n\r\nShip Abilities are always active.\n\n**Ability Bonus by Level**\n```\nLevel      Bonus\n----------------\n   26      100 %\n   27      102 %\n   28      104 %\n   29      106 %\n   30      108 %\n----------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Expansion",
+              "value": "Max Tiers: ` 9 `\nMax Levels: ` 45 `",
+              "isInline": true
+            },
+            {
+              "name": "Scrapyard",
+              "value": "Can Scrap? ` Yes `\nReq. Lvl: ` 50 `",
+              "isInline": true
+            },
+            {
+              "name": "Build Costs",
+              "value": "`\u00A0863,000,000\u00A0Tritanium\u00A0`\n`\u00A0\u00A035,100,000\u00A0Dilithium\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03,200\u00A03★\u00A0Uncommon\u00A0Crystal\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A048\u00A03★\u00A0Rare\u00A0Crystal\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A016,500\u00A03★\u00A0Common\u00A0Ore\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A010,500\u00A03★\u00A0Uncommon\u00A0Ore\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0200\u00A03★\u00A0Rare\u00A0Ore\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A021,775\u00A03★\u00A0Battleship\u00A0Parts\u00A0`",
+              "isInline": false
+            },
+            {
+              "name": "Repair Costs",
+              "value": "`\u00A01,035,286\u00A0Tritanium\u00A0`\n`\u00A0\u00A0\u00A0\u00A099,266\u00A0Dilithium\u00A0`",
+              "isInline": false
+            },
+            {
+              "name": "Build Time",
+              "value": "Time:\u00A0`48d\u00A014h\u00A040m`\nSeconds:\u00A0`4,200,000`\u00A0**",
+              "isInline": true
+            },
+            {
+              "name": "Repair Time",
+              "value": "Time:\u00A0`1d\u00A014h\u00A030m`\nSeconds:\u00A0`138,600`\u00A0**",
+              "isInline": true
+            },
+            {
+              "name": "Experience By Level",
+              "value": "```\nLevel  XP Required\n------------------\n   26       47,000\n   27       51,000\n   28       57,000\n   29       61,000\n   30       69,000\n------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "**NOTE:**",
+              "value": "* **Ship Total Tiering Cost & Time** displayed are *base values only*. Buffs/Bonuses are player specific and *are not applied*.",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861698254684553237",
+      "type": "Default",
+      "timestamp": "2021-07-05T20:01:13.496+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!building ops lvl 43",
+      "author": {
+        "id": "179078544326918144",
+        "name": "Goregrind",
+        "discriminator": "9858",
+        "nickname": "Goregrind",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\46642e7c0c82c7d4952af5522a09576f-43FCC.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861698255188656158",
+      "type": "Default",
+      "timestamp": "2021-07-05T20:01:13.616+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**==  Operations - Level: 43  ==**",
+          "url": null,
+          "timestamp": "2021-07-05T20:01:13.56+00:00",
+          "description": "",
+          "color": "#2ECC71",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Requirements",
+              "value": "Ship Hangar (42)\nDefense Platform E (10)\nShipyard (42)",
+              "isInline": true
+            },
+            {
+              "name": "Levels",
+              "value": "`  50  `",
+              "isInline": true
+            },
+            {
+              "name": "Power",
+              "value": "Actual: `92,000`\nIncrease: `7,000`",
+              "isInline": true
+            },
+            {
+              "name": "Build Cost",
+              "value": "`\u00A014,932,800,000\u00A0Parsteel\u00A0`\n`\u00A0\u00A0\u00A0\u00A0137,250,000\u00A0Tritanium\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A045,750,000\u00A0Dilithium\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A050,000\u00A04★\u00A0Common\u00A0Ore\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02,500\u00A04★\u00A0Rare\u00A0Ore\u00A0`",
+              "isInline": false
+            },
+            {
+              "name": "Build Time",
+              "value": "Time:\u00A0`768d\u00A022h\u00A048m`\nSeconds:\u00A0`66,437,280`\u00A0**",
+              "isInline": true
+            },
+            {
+              "name": "Bonuses",
+              "value": "Weapon Damage Bonus: `43 %`",
+              "isInline": true
+            },
+            {
+              "name": "Rewards",
+              "value": "`\u00A0400\u00A0Latinum\u00A0`\n`\u00A0\u00A0\u00A03\u00A01\u00A0Day\u00A0Peace\u00A0Shield\u00A0`\n`\u00A0\u00A0\u00A05\u00A03\u00A0Day\u00A0Speed\u00A0Up\u00A0`",
+              "isInline": false
+            },
+            {
+              "name": "**NOTE:**",
+              "value": "* **Build Cost & time** displayed are *base values only*. Buffs/Bonuses are player specific and *are not applied*.  Use `!upgrade faq` for information on how to calculate the buff adjustments.",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861698355620479046",
+      "type": "Default",
+      "timestamp": "2021-07-05T20:01:37.561+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!building ship hanger 42",
+      "author": {
+        "id": "179078544326918144",
+        "name": "Goregrind",
+        "discriminator": "9858",
+        "nickname": "Goregrind",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\46642e7c0c82c7d4952af5522a09576f-43FCC.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861698356110950450",
+      "type": "Default",
+      "timestamp": "2021-07-05T20:01:37.678+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**==  Ship Hangar - Level: 42  ==**",
+          "url": null,
+          "timestamp": "2021-07-05T20:01:37.627+00:00",
+          "description": "",
+          "color": "#2ECC71",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Requirements",
+              "value": "Armada Control Center (30)\nShipyard (42)\nOperations (42)",
+              "isInline": true
+            },
+            {
+              "name": "Levels",
+              "value": "`  50  `",
+              "isInline": true
+            },
+            {
+              "name": "Power",
+              "value": "Actual: `14,000`\nIncrease: `1,000`",
+              "isInline": true
+            },
+            {
+              "name": "Build Cost",
+              "value": "`\u00A013,066,200,000\u00A0Parsteel\u00A0`\n`\u00A0\u00A0\u00A0\u00A0128,100,000\u00A0Tritanium\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A026,000\u00A04★\u00A0Common\u00A0Crystal\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01,500\u00A04★\u00A0Rare\u00A0Crystal\u00A0`",
+              "isInline": false
+            },
+            {
+              "name": "Build Time",
+              "value": "Time:\u00A0`349d\u00A04h\u00A048m`\nSeconds:\u00A0`30,170,880`\u00A0**",
+              "isInline": true
+            },
+            {
+              "name": "Bonuses",
+              "value": "Hull Health Bonus: `126 %`\n    Ship Inventory Slots: `62`",
+              "isInline": true
+            },
+            {
+              "name": "Rewards",
+              "value": "NIL",
+              "isInline": false
+            },
+            {
+              "name": "**NOTE:**",
+              "value": "* **Build Cost & time** displayed are *base values only*. Buffs/Bonuses are player specific and *are not applied*.  Use `!upgrade faq` for information on how to calculate the buff adjustments.",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861698392198611004",
+      "type": "Default",
+      "timestamp": "2021-07-05T20:01:46.282+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!building shipyard 42",
+      "author": {
+        "id": "179078544326918144",
+        "name": "Goregrind",
+        "discriminator": "9858",
+        "nickname": "Goregrind",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\46642e7c0c82c7d4952af5522a09576f-43FCC.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861698392521834547",
+      "type": "Default",
+      "timestamp": "2021-07-05T20:01:46.359+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**==  Shipyard - Level: 42  ==**",
+          "url": null,
+          "timestamp": "2021-07-05T20:01:46.354+00:00",
+          "description": "",
+          "color": "#2ECC71",
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Requirements",
+              "value": "4★ Shield Modulation (1)\nR&D Department (42)\nOperations (42)",
+              "isInline": true
+            },
+            {
+              "name": "Levels",
+              "value": "`  50  `",
+              "isInline": true
+            },
+            {
+              "name": "Power",
+              "value": "Actual: `28,000`\nIncrease: `2,000`",
+              "isInline": true
+            },
+            {
+              "name": "Build Cost",
+              "value": "`\u00A07,839,720,000\u00A0Parsteel\u00A0`\n`\u00A0\u00A0\u00A0\u00A064,050,000\u00A0Tritanium\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A08,000\u00A04★\u00A0Uncommon\u00A0Crystal\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02,500\u00A04★\u00A0Rare\u00A0Crystal\u00A0`",
+              "isInline": false
+            },
+            {
+              "name": "Build Time",
+              "value": "Time:\u00A0`279d\u00A08h\u00A048m`\nSeconds:\u00A0`24,137,280`\u00A0**",
+              "isInline": true
+            },
+            {
+              "name": "Bonuses",
+              "value": "Tier Up Speed: `121 %`\n    Ship Construction Speed: `121 %`",
+              "isInline": true
+            },
+            {
+              "name": "Rewards",
+              "value": "NIL",
+              "isInline": false
+            },
+            {
+              "name": "**NOTE:**",
+              "value": "* **Build Cost & time** displayed are *base values only*. Buffs/Bonuses are player specific and *are not applied*.  Use `!upgrade faq` for information on how to calculate the buff adjustments.",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861710445022937088",
+      "type": "Default",
+      "timestamp": "2021-07-05T20:49:39.899+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!Bb T3",
+      "author": {
+        "id": "536583391626395649",
+        "name": "Fenian15",
+        "discriminator": "5847",
+        "nickname": "Fenian15",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861710445495844864",
+      "type": "Default",
+      "timestamp": "2021-07-05T20:49:40.012+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commander, information as requested...",
+      "author": {
+        "id": "553906981652529181",
+        "name": "LCARS 2.0",
+        "discriminator": "1411",
+        "nickname": "LCARS 2.0",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-206EE.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**BOTANY BAY   -   TIER 3\nNeutral   -   3★   Uncommon   Survey**",
+          "url": null,
+          "timestamp": "2021-07-05T20:49:39.958+00:00",
+          "description": "",
+          "color": "#2ECC71",
+          "thumbnail": {
+            "url": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\prefab_ship_015_thumb_border-26C3A.png",
+            "width": 256,
+            "height": 256
+          },
+          "footer": {
+            "text": "LCARS 2.0 - Library Computer Access/Retrieval System",
+            "iconUrl": "Official LCARS 2.0 - ──── access terminals ──── - \uD83D\uDCBB-lcars-terminal-15 [697529046057222148] (after 2021-07-05).json_Files\\e68b4b9ab7e9b7e2cad8c112e323b7bc-A8214.png"
+          },
+          "fields": [
+            {
+              "name": "Ship Ability",
+              "value": "Data Mining\r\n\r\nThe Botany Bay's Mining Bonus from the Mining Laser is increased by  29800% when mining Corrupted Data and Decoded Data.\r\n\r\nShip Abilities are always active.\n\n**Ability Bonus by Level**\n```\nLevel      Bonus\n----------------\n   11        298\n   12        301\n   13        304\n   14        308\n   15        311\n----------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "Expansion",
+              "value": "Max Tiers: ` 9 `\nMax Levels: ` 45 `",
+              "isInline": true
+            },
+            {
+              "name": "Scrapyard",
+              "value": "Can Scrap? ` No `",
+              "isInline": true
+            },
+            {
+              "name": "Build Costs",
+              "value": "`\u00A051,150\u00A0Tritanium\u00A0`\n`\u00A0\u00A02,650\u00A0Dilithium\u00A0`\n`\u00A0\u00A0\u00A0\u00A0360\u00A02★\u00A0Common\u00A0Gas\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A014\u00A02★\u00A0Uncommon\u00A0Gas\u00A0`\n`\u00A0\u00A01,800\u00A02★\u00A0Common\u00A0Ore\u00A0`\n`\u00A0\u00A0\u00A0\u00A0\u00A090\u00A02★\u00A0Uncommon\u00A0Ore\u00A0`\n`\u00A0\u00A0\u00A0\u00A0623\u00A02★\u00A0Survey\u00A0Parts\u00A0`",
+              "isInline": false
+            },
+            {
+              "name": "Build Costs *(specialized)*",
+              "value": "`\u00A0\u00A0\u00A0\u00A0112\u00A0Common\u00A0Plutonium\u00A0`",
+              "isInline": false
+            },
+            {
+              "name": "Repair Costs",
+              "value": "`\u00A0768\u00A0Tritanium\u00A0`\n`\u00A0\u00A092\u00A0Dilithium\u00A0`",
+              "isInline": false
+            },
+            {
+              "name": "Build Time",
+              "value": "Time:\u00A0`2d\u00A05h\u00A020m`\nSeconds:\u00A0`192,000`\u00A0**",
+              "isInline": true
+            },
+            {
+              "name": "Repair Time",
+              "value": "Time:\u00A0`41m`\nSeconds:\u00A0`2,460`\u00A0**",
+              "isInline": true
+            },
+            {
+              "name": "Experience By Level",
+              "value": "```\nLevel  XP Required\n------------------\n   11        7,000\n   12        8,500\n   13        9,500\n   14       11,000\n   15       13,500\n------------------\n```",
+              "isInline": false
+            },
+            {
+              "name": "**NOTE:**",
+              "value": "* **Ship Total Tiering Cost & Time** displayed are *base values only*. Buffs/Bonuses are player specific and *are not applied*.",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 88
+}

@@ -1,0 +1,33 @@
+viper042 — Today at 12:51 PM
+!abbreviations ?
+LCARS 2.0
+BOT
+ — Today at 12:51 PM
+Commander, information as requested...
+ COMMAND HELP
+= Abbreviations command =
+
+List of abbreviations used by the BOT to fit information in discord's requirements
+
+Command ::
+!abbreviations
+
+Aliases ::
+!abbrev, !abbr, !abb
+Syntax:
+!abbreviation <name>
+
+Name :: 
+ * Full/partial abbreviation or description
+ * Enclose in quotes for explicit name search
+Usage Examples:
+!abbreviations  = complete list
+!abbr grade     = description including
+!abb CIP        = abbreviations including
+Notes:
+ * Searching will look in both the abbreviation and description 
+   and return results from both
+ * Enclose abbreviation name &/or description in quotes for 
+   explicit name search
+
+LCARS 2.0 - Library Computer Access/Retrieval System•Today at 12:51 PM

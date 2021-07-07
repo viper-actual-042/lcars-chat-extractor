@@ -1,0 +1,30 @@
+viper042 — Today at 12:46 PM
+!chart ?
+LCARS 2.0
+BOT
+ — Today at 12:46 PM
+Commander, information as requested...
+ COMMAND HELP
+= Infographic Charts command =
+
+Infographic on a command or topic
+
+Command ::
+!chart
+
+Aliases ::
+!ig
+Syntax:
+!chart <name>
+
+Name ::
+ * Full/partial chart name
+Usage Examples:
+!chart             = List of all available charts
+!ig                = List of all available charts
+!ig isogenrefining = 1/2/3* Isogen/Progenitor Refining
+!ig pr             = Ship scrapping vs Prime Research
+Notes:
+To see a complete list of charts, please use: `!chart`
+
+LCARS 2.0 - Library Computer Access/Retrieval System•Today at 12:46 PM

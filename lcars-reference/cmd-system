@@ -1,0 +1,75 @@
+viper042 — Today at 12:43 PM
+!system ?
+LCARS 2.0
+BOT
+ — Today at 12:43 PM
+Commander, information as requested...
+ COMMAND HELP
+= System / Resource command =
+
+Summary/detailed information: warp, mines, planets, station hubs, missions, and more
+
+Command ::
+!system / !resource
+
+Aliases ::
+!sys, !* / !rss, !node
+Syntax:
+!<command> <name> <filters> <min> <condition> <max> <sort>
+
+Command ::
+ * system   - hostile list view
+ * Resource - resource list view
+
+Name ::
+ * Full/partial System, Planet
+            - for planet, the keyword is required
+
+Filters ::
+ * Resource - parsteel, tritanium, dilithium,
+            - data, corupted, decoded, latinum,
+            - g1, g2, g3, g4, gas, ore, crystal, isogen
+ * Faction  - neutral, federation, romulan, klingon,
+              augment, borg, swarm, rogue
+ * Other    - elite, hub, mission, planet, warp,
+              power, reputation, dark, deep,
+              hub5, hub8, hub10, hub12, hub16
+
+Min/Max ::
+ * Numeric filter range
+            - level (default)
+
+Condition ::
+ * applied to range: `+`, `=`, `-`, `<`, `>`,
+                     `<=`, `>=`
+            - only applies to the first range value
+
+ Sort ::
+  * `!` changes sort from Level to Name
+Usage Examples:
+Systems ::
+!system             = all systems
+!sys fed            = all Federation systems
+!* rom hubs         = Romulan systems with hubs
+!sys missions       = Systems with new missions
+!sys planet ea      = Systems with planets filter
+! <= 25 warp aug    = Augment under warp 25 
+!origin             = all Origin Sector systems
+
+Resources ::
+!rss fed 20         = Show Fed system resources
+!rss G3 cry         = Systems with G3 crystal
+!gas hub warp 20+   = Station hub systems with gas warp 20+
+!gas hub10 warp 20+ = Station hubs with 10 slots
+!data 30 40         = Corrupted/Decoded data lvl 30-40
+!isogen g3          = Systems with 3⇴ Raw Isogen
+!origin g4          = Origin Sector systems with raw G4 MATs
+!anomaly            = all anomaly systems
+Notes:
+ * The system details card is displayed if only
+   1 system returned in search results
+ * Resource variations: par, tri, dil, lat, data,
+   corrupt, decode, G3, *3
+ * Faction name: neu fed kli rom aug borg swarm rog
+
+LCARS 2.0 - Library Computer Access/Retrieval System•Today at 12:43 PM

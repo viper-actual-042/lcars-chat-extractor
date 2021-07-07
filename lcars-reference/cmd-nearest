@@ -1,0 +1,67 @@
+viper042 — Today at 12:36 PM
+!nearest ?
+LCARS 2.0
+BOT
+ — Today at 12:36 PM
+Commander, information as requested...
+ COMMAND HELP
+= Nearest command =
+
+Find nearby systems by resource, hostiles, etc...
+
+Command ::
+!nearest
+
+Aliases ::
+!nearby, !near, !closest, !close
+Syntax:
+!nearest <name> <warp> <filters>
+
+Name ::
+
+ * Full/partial "from" System name
+
+Warp ::
+ * find best route for maximum ship maximum
+   inter-system warp hop distance
+
+Filters ::
+ * Faction  - neutral, federation, romulan, klingon,
+              augment, swarm, borg
+ * RSS/MAT  - Parsteel, Tritanium, Dilithium
+              G2, G3, G4, Crystal, Ore, Gas
+              Latinum, Corrupted & Decoded Data
+ * Hostile  - Interceptor, explorer, battleship, survey
+              trader, transport, scout*
+ * Armada   - uncommon, rare, epic
+ * Info     - summary list or detailed stats and info
+ * Other    - hub, mission, origin
+Min/Max ::
+ * Numeric filter range
+            - level (default)
+
+Condition ::
+ * applied to range: `+`, `=`, `-`, `<`, `>`,
+                     `<=`, `>=`
+            - only applies to the first range value
+Usage Examples:
+!fed hub nearest opla    = fed hub systems near Opla
+!g3 gas info near p'jem  = all g3 gas system info view
+!bs near wolf            = battleship hostiles near wolf
+!fed epic armada hubs near doska
+        = fed systems with epic armada + hubs near Doska
+!hubs info near p'jem 30 40
+        = detailed systems info with Station Hubs near
+          P'Jem within a warp range of 30 to 40
+!origin G4 info near tellun
+        = closest G4 mines in Origin Sector near Tellun
+Notes:
+ * Faction name: neu fed kli rom aug swarm, borg
+ * Hostile types: hos, int, exp, bshp, sur, trad, trans
+ * Armada types: unc, rar, epi
+
+Warp distance is the sum of all warp paths. You can divide the Warp distance by the ship warp speed (details Tab > Utility section) to calculate the warp time (excluding impulse time) between 'from' and 'to' systems.
+
+The Ship's "Warp Range" is actually the "Maximum Inter-System Warp Hop Distance" and not "[Total] Warp Range".
+
+LCARS 2.0 - Library Computer Access/Retrieval System•Today at 12:36 PM

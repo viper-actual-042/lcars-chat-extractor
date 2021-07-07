@@ -1,0 +1,66 @@
+viper042 — Today at 12:46 PM
+!daily ?
+LCARS 2.0
+BOT
+ — Today at 12:46 PM
+Commander, information as requested...
+ COMMAND HELP
+= dailies command =
+
+All Daily Goals & Milestones
+
+Command ::
+!daily
+
+Aliases ::
+!dailies, !day, !goal
+Syntax:
+!daily <name> <mode> <values> <type>
+
+Name ::
+ * Full/partial event name
+ * Enclose in quotes for explicit name search
+
+Mode ::
+ * milestone      - daily point milestones
+ * faction        - federation, romulan, or klingon
+ * hostiles       - hostile (inc faction)
+ * mining         - mining (inc faction)
+
+Values ::
+ * 1 to 50        - operations level
+ * 500 to 1bil    - faction level (up to 3)
+ * [rep lvl name] - faction rep (up to 3)
+
+Type ::
+ * rewards        - rewards by tier
+ * list           - old list format
+Usage Examples:
+!daily            = list of all events
+!day milestone    = milestones points by tier
+!day ms reward    = rewards by by points & tier
+!day ms rew 37    = rewards by points for OPs 37
+!day list         = old Swarm, faction hostile/mining
+!day faction      = all faction hostile/mining
+!day host         = all hostile, Swarm & faction
+!day host hun     = all hostile Hunter & Harbinger
+!day swarm rew    = all Swarm hostile rewards by tier
+!day fact rew     = all faction rewards
+!day fed          = all faction hostile/mining
+!day fed pve      = faction hostile
+!day fed mine     = faction mining
+!day mine         = all mining by tier & requirements
+!day mine rew     = all mining rewards
+!day All unit     = Alliance Unity tiers and rewards
+!day spelunker    = Spelunker tiers and rewards
+!day 39   = Milestones + points goals with rewards for OPs 39
+!day 10m          = Respected rep goal and rewards
+!day 39 respected = Milestone + points/faction
+Notes:
+ * Abbreviated event names supported:
+    eg: all sol = Alliance Solidarity
+ * Enclose daily goal names in quotes for 
+   explicit name search
+ * Use command !rep for faction level names
+
+LCARS 2.0 - Library Computer Access/Retrieval System•Today at 12:46 PM

@@ -1,0 +1,70 @@
+viper042 — Today at 12:42 PM
+!starbase ?
+LCARS 2.0
+BOT
+ — Today at 12:42 PM
+Commander, information as requested...
+ COMMAND HELP
+= Starbase / Buildings command =
+
+Starbase upgrade information covering: requirements, cost and research time, actual and increased power from previous level, rewards, and the bonus by level
+
+Command ::
+!starbase
+
+Aliases ::
+!upgrade, !upg, !base, !sb, !station, !stn
+Syntax:
+!upgrade <name> <field> <name> <level> <filters>
+!upgrade faq
+
+Faq ::
+ * Explains how to calculate adjusted costs/time base
+   on other research and level of buildings. Link to
+   spreadsheet is also included.
+
+Fields::
+ * Cost,
+   Reward,
+   Requirement,
+   RequiredBy - search in
+
+Name ::
+ * Full/partial/abbreviated building name
+ * If no name & level, all buildings are listed
+
+Level ::
+ * Range: 1 to 50, none = summary
+ * If no building named, Total Operations requirement
+   for level specified
+
+Filters ::
+ * Total    - total cost of ownership or TCO
+ * NoRequirement - Use with range for no requirements
+ * Power    - Sort descending order by Power Increase
+ * List     - Compact list format
+ * Info     - Compact list format with requirements
+Usage Examples:
+!upgrade            = List all buildings
+!upgrade 23         = Level 23 buildings list
+!upgrade 23 power   = Level 23 buildings by power
+!upg 23 pwr list    = compact list for level 23 by power
+!upg 23 pwr info    = compact list & requirements by power
+!upg acc list       = list all levels with key info
+!upg acc 20 25 list = list level range with key info
+!upgrade 23 tco     = Total required for Ops 23
+!upgrade 35 39      = Total required for Ops 35 to 39
+!shipyard 29 32     = Total required 29-32 shipyard
+!upgrade operations = Summary info for Ops building
+!ops 29 35 noreq    = Totals 29-32 Ops building only
+!upg par gen 35     = Parsteel Generators at level 35
+!upg ops tco        = All 50 levels for Ops building
+!upg reward list    = list of all reward resources
+!def plat a 40 info = building + stats cards
+!dpa 40 info        = defense platform A stats cards
+!upg cost "4* ore"
+  = all buildings with cost requiring the 4* Com/Rare Ore
+Notes:
+Defense Platforms are not normal buildings, they are more like ships. So, only the Defense Platform supports statistical information, just like hostiles, Armadas, and ships.
+
+LCARS 2.0 - Library Computer Access/Retrieval System•Today at 12:42 PM

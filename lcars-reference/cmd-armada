@@ -1,0 +1,81 @@
+viper042 — Today at 12:33 PM
+!armada ?
+LCARS 2.0
+BOT
+ — Today at 12:33 PM
+Commander, information as requested...
+ COMMAND HELP
+= Hostile / Armada command =
+
+Summary or detailed hostile or armada information
+
+Command ::
+!hostile / !armada
+
+Aliases ::
+!hos, !npc / !arm
+Syntax:
+!command <name> <filters> <min> <condition> <max> <sort>
+
+Command ::
+ * hostile  - hostile search
+ * armada   - armada search
+
+Name ::
+ * Full/partial Hostile or armada name
+ * enclose in quotes for explicit name search
+
+Filters ::
+ * Faction  - Neutral, Fed, Rom, Kln, Aug
+              Swarm, Borg, Eclipse, Rogue
+ * Hostile  - Interceptor, Explorer, Battleship
+              Survey
+ * Armada   - Uncommon, Rare, Epic
+ * Info     - summary list/detailed stats/info
+ * Rank     - Ranked summary stats/info
+ * fp       - Ship weapons (firing pattern)
+ * Other    - Elite, Hub, Mission, Planet, Warp,
+              Power, Reputation, Dark, Deep, Origin
+ * FAQ      - Armada frequently Asked Questions
+
+Min/Max ::
+ * Numeric filter range
+   - level (default)
+   - hostile/armada strength/power/rep
+
+Condition ::
+ * applied to range: `+`, `=`, `-`, `<`, `>`,
+                     `<=`, `>=`
+   - only applies to the first range value
+
+ Sort ::
+  * `!` sort by Name
+Usage Examples:
+Hostiles ::
+!hostile 31              = level 31 hostiles sys view
+!hostile 31 info         = level 31 hostiles info view
+!host bs 33              = level 33 battleship hostiles
+!npc scout 31            = level 31 scouts
+!npc fed "scout *" 31    = level 31 fed scouts
+!npc fed "scout *" 31 fp = firing pattern
+!npc fed "scout *" fp    = all fed scout by level
+!npc "Pakled Thief" info = summary of all hostile type
+!npc "Pakled Thief" rank = level ranked best to worst
+
+Armadas ::
+!armada citadel 36 info  = Romulan Citadel 36 info card
+!armada epic fed hubs    = Fed hub systems epic armada
+!armada epic fed 33 info = armada stats and information
+!armada Origin           = Origin space armada list
+!armada faq              = detailed armada information
+!borgmadas               = list all Borg armadas
+!muddmadas               = list all Outlaw armadas
+!anomadas                = list all Anomaly armadas
+!terrimadas              = list all Origin Sector armadas
+Notes:
+ * Faction name: neu fed kli rom aug swarm, borg, ecl, rog
+ * Hostile types: hos, int, exp, bshp, sur
+ * Armada types: unc, rar, epi
+ * Rank by Power, Level, or Reputation
+
+LCARS 2.0 - Library Computer Access/Retrieval System•Today at 12:33 PM

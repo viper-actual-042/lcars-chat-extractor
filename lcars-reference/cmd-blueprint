@@ -1,0 +1,81 @@
+viper042 — Today at 12:34 PM
+!blueprint ?
+LCARS 2.0
+BOT
+ — Today at 12:34 PM
+Commander, information as requested...
+ COMMAND HELP
+= ship command =
+
+Ship upgrade/repair cost & time by component/tier, total cost of ownership, warp/impulse range/speed, blueprints, firing patterns, capacity & protected cargo, crew slots, and scrapping
+
+Command ::
+!ship
+
+Aliases ::
+!shp, !sh, !bird
+Syntax:
+!ship <name> <mode> <filters> <sort>
+!<name> <mode> <filters> <sort>
+
+Name ::
+ * Full/partial/nickname ship name
+
+Mode ::
+ * blueprint - cost & where
+ * cargo     - protected/capacity by tier
+ * crewslots - # of crew by level
+ * crewstats - crew stat bonus
+ * firingpattern - ship weapon firing pattern (fp)
+ * stats   - ship statistics
+ * info    - Tier + component
+ * levels  - XP by tier
+ * repair  - cost by tier
+ * scrap   - requires level and tier
+ * warp    - warp/impulse range/speed by tier
+ * cost    - search in field
+ * list    - compact list of ship by
+               faction/type/rarity/grade
+
+Filters ::
+ * tier    - ship or Component tier/mk
+ * faction - neutral, federation, romulan, klingon
+ * grade   - G1 to G4 / 1* to 4*
+ * rarity  - common, uncommon, rare, epic
+ * tco     - total cost of ownership
+ * type    - interceptor, explorer, battleship,
+               survey
+Sort ::
+ * byFaction, byGrade, byRarity, byType
+Usage Examples:
+!ship byfaction     = list sorted by faction
+!ship list          = compact list of all ships
+!ship list byRarity = list sorted by rarity
+!ship g4            = all G4 ships
+!ship fed           = all federation ships
+!envoy T5           = ECS Envoy Tier 5 total costs
+!bortas T5 T9       = Bortas total cost Tiers 5 to 9
+!cent T5 warp       = Centurion MK5 warp engine cost
+!cent lvls          = XP by level - all tiers
+!pizza cutter repair  = Saladin repair cost/tier
+!mf warp            = Mayflower Warp and impulse
+!scrap list         = list of scrappable ships
+!scrap fed 3*       = Fed 3* recyclable ships
+!intrepid scrap T9 45 = Recycle Lvl 45 ship, T9
+           components reward Resources + base time
+!augur stats        = Augur T1 stats sunmmary
+!augur stats t7     = Augur T7 stats summary
+!augur stats t7 36  = Ops 36 specific details
+!ship cost          = list of all cost resources
+!4* rare ship "rare ore" cost
+    = list by "rare ore" costs for Rare G4 ships
+Notes:
+ * Part/Components: armor, cargo, impulse engine,
+                    mining laser, shield, warp
+                    engine, weapon, energy, kinetic
+ * Total per tier: All Components + Tier upgrade
+    eg: T5 = upgrade all MK4 to MK5 + tier 5
+
+ ** For Skins and Projectiles, see !refit help
+
+LCARS 2.0 - Library Computer Access/Retrieval System•Today at 12:34 PM

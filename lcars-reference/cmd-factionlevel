@@ -1,0 +1,30 @@
+viper042 — Today at 12:47 PM
+!factionlevel ?
+LCARS 2.0
+BOT
+ — Today at 12:47 PM
+Commander, information as requested...
+ COMMAND HELP
+= Faction Level command =
+
+Reputation required for each faction level
+
+Command ::
+!factionlevel
+
+Aliases ::
+!faction, !fac, !fl, !reputation, !rep
+Syntax:
+!rep filters>
+
+Filters ::
+ * Faction - faction, federation, romulan, klingon,
+             augment, rogue
+Usage Examples:
+!factionlevel  = for all factions
+!fl            = for all factions
+!fl fed        = for Federation
+!rep aug       = for Augment
+!rep rogue     = for Rogue
+
+LCARS 2.0 - Library Computer Access/Retrieval System•Today at 12:47 PM

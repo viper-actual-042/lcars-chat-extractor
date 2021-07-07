@@ -1,0 +1,44 @@
+viper042 — Today at 12:41 PM
+!route ?
+LCARS 2.0
+BOT
+ — Today at 12:41 PM
+Commander, information as requested...
+ COMMAND HELP
+= Route / Course command =
+
+Find quickest path between 2 systems
+
+Command ::
+!route
+
+Aliases ::
+!course, !engage, !wf, !wayfind, !wayfinding
+Syntax:
+!<command> <from_system> <direction> <to_system> <warp> <filters>
+
+From/To System Name ::
+ * Full/partial System names supported
+
+Direction ::
+ * Required
+ * to, >, >>, ->, from, <, <<, <- for path ordering
+
+Warp ::
+ * find best route for maximum ship maximum
+   inter-system warp hop distance
+
+Filters ::
+ * Info     - summary list or detailed stats and info
+Usage Examples:
+!route zeta polis to kol ran = show quicket path
+!nav wolf to babel           = direct route (warp 47)
+!wolf to babel 40            = max warp 40 alt route
+!p'jem to Groomb info
+        = P'Jem to Groombridge 34 with system data
+Notes:
+Warp distance is the sum of all warp paths. You can divide the Warp distance by the ship warp speed (details Tab > Utility section) to calculate the warp time (excluding impulse time) between 'from' and 'to' systems.
+
+The Ship's "Warp Range" is actually the "Maximum Inter-System Warp Hop Distance" and not "[Total] Warp Range".
+
+LCARS 2.0 - Library Computer Access/Retrieval System•Today at 12:41 PM

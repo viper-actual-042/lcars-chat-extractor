@@ -1,0 +1,25 @@
+viper042 — Today at 12:50 PM
+!pvplevel ?
+LCARS 2.0
+BOT
+ — Today at 12:50 PM
+Commander, information as requested...
+ COMMAND HELP
+= Player vs Player Levels command =
+
+Player vs player attack range levels
+
+Command ::
+!pvplevel
+
+Aliases ::
+!pvplvl, !pvp
+Usage Examples:
+!pvplevel
+!pvplvl
+!pvp
+!pvp 40               ( only level 40 )
+Notes:
+ * now supports specific levels - 13 to 50
+
+LCARS 2.0 - Library Computer Access/Retrieval System•Today at 12:50 PM

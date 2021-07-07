@@ -1,0 +1,86 @@
+viper042 — Today at 12:43 PM
+!zone ?
+LCARS 2.0
+BOT
+ — Today at 12:43 PM
+Commander, information as requested...
+ COMMAND HELP
+= Territory Zone command =
+
+Search Origin Sector Zones
+
+Command ::
+!zone
+
+Aliases ::
+!territory
+Syntax:
+!zone <name> <mode> <filters> <region> <timezone> <sort>
+
+Name ::
+ * Full/partial Zone name
+ * Full/partial Service name
+
+Mode ::
+ * services             - search services
+ * timezones            - list timezones
+
+Filters ::
+ * <tier>               - zone tier
+ * <weekday>            - monday, tuesday, ..., sunday
+ * <particle>           - (see list in notes)
+ * <race>               - (see list in notes)
+ * numeric filter range - starting hour
+ * schedule             - Compact list day and time
+ * upcoming             - outstanding events for
+                          today & tomorrow
+ * list                 - Compact Services list
+                          (for services only)
+
+Region ::
+ * EU                   - European UTC
+ * US                   - Canadian and Americas UTC 
+ * APAC                 - Asia-Pacific UTC
+
+Time Zone ::
+ * <abbreviation>       - country-specific
+
+Sort ::
+ * schedule             - by day then start time
+Usage Examples:
+!zone             = Compact list by name
+!zone sch         = Compact list by day and time
+
+!zone Adia        = Adia display card
+!zone Adia apac   = Card with APAC info
+
+!zone t2          = All tier 2 zones
+!zone t2 t3       = All tier 2 & 3 zones
+!zone t2 trill    = All tier 2 Trill zones
+
+!zone surax       = Zones with Surax generators
+
+!zone wed fri     = All takeovers between
+                   Wednesday to Friday (inclusive)
+!zone wed fri 16 20 = between Wed 4pm to Fri 8pm UTC
+
+!zone sch us thur 18 sat 23     = US server in UTC
+!zone sch us thur 18 sat 23 est = US server in EST
+!zone upcoming apac aedt
+         = Upcoming event in Australian Eastern Daylight
+            saving Time on apac servers
+
+!zone services        = Expanded list all services
+!services trill list  = All services for Trill race
+!services list adv    = Compact List filtered services
+!serv repair enhancer = Show Repair Enhancer details
+
+!zone timezones       = List all timezones
+Notes:
+ * Specify server region for targeted information
+ * Day abbreviations: Mon, Tues, Wed, etc...
+ * Tier number & tier symbol `♠️` are both supported
+ * Particles: Metreon, Phantom, Quantum, Surax
+ * Races: Bolian, Breen, Corvallen, Suliban, Tholian, Trill
+
+LCARS 2.0 - Library Computer Access/Retrieval System•Today at 12:43 PM

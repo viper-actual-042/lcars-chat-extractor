@@ -1,0 +1,70 @@
+viper042 — Today at 12:37 PM
+!officer ?
+LCARS 2.0
+BOT
+ — Today at 12:37 PM
+Commander, information as requested...
+ COMMAND HELP
+= Officer command =
+
+Officer ability, costs, levels, & rank information
+
+Command ::
+!officer
+
+Aliases ::
+!off
+Syntax:
+!officer <name> <mode> <filters> <sort>
+!<name> <mode> <filters> <sort>
+
+Name :: 
+ * Full/partial officer name
+ * Full/partial synergy group name
+ * Full/partial captain/officer ability
+ * Enclose in double quotes for explicit ability search
+
+Mode ::
+ * rank      - levels by rank
+ * list      - compact list of officers by 
+               faction / class / rarity / synergy
+
+Filters ::
+ * faction   - neutral, federation, romulan,
+               klingon, augment
+ * class     - command, engineering, science
+ * rarity    - common/grey, uncommon/green,
+               rare/blue, epic/purple
+ * synergy   - officer synergy bonuses by
+               officer group
+
+Sort ::
+ * byFaction, byClass, byRarity, byGroup
+   byStrength, byAttack, byDefense, byHealth
+Usage Examples:
+!officer            = detailed list of all officers
+!officer byFaction  = list sorted by faction
+!officer list       = compact list all officers
+!officer list byClass = list sorted by class
+!off fed            = all federation officers
+!off fed list       = compact list all fed officers
+!off epic           = all epic officers
+!off kln unc        = all Klingon uncommon
+!off blood & honor  = synergy group officers
+!officer cadet kirk = Cadet James T. Kirk details
+!off purple kirk    = Epic James T. Kirk details
+!off nero           = Nero's details
+!off nero synergy   = officer synergy group info
+!pike rank          = list levels for Chris Pike
+!vart r5            = Rank 5 for Vartoq
+!off "hull health" list = captain/office ability search
+!off "hull health" list kli = klingon faction
+Notes:
+ * Faction name variations: neu fed kli rom aug
+ * officer class name variations: com, eng, sci
+ * partial officer names supported:
+    eg: cad jim kirk = Cadet James T. Kirk
+ * for captain/officer ability search, enclose
+    search in double quotes
+
+LCARS 2.0 - Library Computer Access/Retrieval System•Today at 12:37 PM

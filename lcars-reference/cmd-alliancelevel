@@ -1,0 +1,25 @@
+viper042 — Today at 12:45 PM
+!alliancelevel ?
+LCARS 2.0
+BOT
+ — Today at 12:45 PM
+Commander, information as requested...
+ COMMAND HELP
+= Alliance Level command =
+
+Contribution & details for each alliance level
+
+Command ::
+!alliancelevel
+
+Aliases ::
+!alliance, !al, !a
+Usage Examples:
+!alliancelevel        ( normal view )
+!alliance             ( normal view )
+!al table             ( compact view )
+!al c                 ( compact view )
+Notes:
+ * For Compact View, use keyword `compact` or `table`
+
+LCARS 2.0 - Library Computer Access/Retrieval System•Today at 12:45 PM
