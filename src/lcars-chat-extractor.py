@@ -10,6 +10,8 @@ def parse_discord_data(json_data):
     last_message = {}
     skip_command = 0
     global lcars_commands_parsed
+    last_lcars_command = ""
+
     for message in json_data['messages']:
         
         # if author is lcars and the content = Commander, information as requested
@@ -19,12 +21,14 @@ def parse_discord_data(json_data):
             '''
             lcars_command = str(last_message["content"]).lower()
             if lcars_command != 'commander, information as requested...':
+                last_lcars_command = lcars_command
                 if len(lcars_commands_parsed) > 0:
                     # check to see if we've previously processed this command
                     if lcars_command in lcars_commands_parsed:
                         skip_command = 1
-                        print('********* DUPLICATE COMMAND FOUND ***********')
+                        print('##### ********* DUPLICATE COMMAND FOUND ***********')
                         print(lcars_command)
+                        print('##### ********* SKIPPED ***********')
                         continue
                     else:
                         skip_command = 0  
@@ -32,29 +36,39 @@ def parse_discord_data(json_data):
                 else:
                     lcars_commands_parsed.append(lcars_command)
 
-                print('=====================================================')
-                print('LCARS_COMMAND: ' + lcars_command)
-                print('-----------------------------------------------------')
-                print('LCARS_RESPONSE:')
+                print('\n---\n')
+                print('#### LCARS_COMMAND: ' + lcars_command)
+                print('\n---\n')
+                print('#### LCARS_RESPONSE:')
                 for field in message["embeds"][0]["fields"]:
                     print(unicodedata.normalize("NFKD", field["value"]))
-                print('=====================================================')
 
             else:
                 #this is a continuation of previous response
-                print('==========CONTINUED FROM ABOVE================')
+                print('\n---\n')
+                print('#### =========={0} cont\'d==============='.format(last_lcars_command))
                 for field in message["embeds"][0]["fields"]:
-                    print(field)
+                    if field["isInline"] == "false":
+                        print(field["name"])
+                        print(field["value"])
+                    else:
+                        print('\n')
+                        print(field["name"])
+                        print(field["value"])
+                        print('\n')
+                        #print('{0} {1}'.format(field["name"],field["value"]))
 
         last_message = message
-        mcount = mcount + 1
-        if mcount > 5:
-            return 0
+        mcount += 1
+
+        # nerf the parsing for now while we figure out the format
+        #if mcount > 10:
+        #    return 0
 
     return 0
 
 def process_file(data_file):
-    print('PARSE_FILE: ' + data_file)
+    print('##### PARSE_FILE: ' + data_file)
     f = open(data_file,)
     data = json.load(f)
     parse_discord_data(data)
@@ -64,11 +78,12 @@ def walk_folders(path):
     os.scandir()
     for entry in os.scandir(path):
         if entry.is_dir():
-            print("DIRECTORY FOUND:" + entry.path)
+            print("##### DIRECTORY FOUND:" + entry.path)
             walk_folders(entry.path)
         if (entry.path.endswith(".json")
                 or entry.path.endswith(".json")) and entry.is_file():
-            print("JSON file found:" + entry.path)
+            print('\n---\n')
+            print("##### JSON file found:" + entry.path)
             process_file(entry.path)    
 
 def main():
@@ -78,7 +93,7 @@ def main():
         # use the current working directory if none is specified in command-line args
         directory = os.getcwd()
     
-    print("MAIN() Starting Directory: " + directory)
+    print("##### MAIN() Starting Directory: " + directory)
     walk_folders(directory)
 
     # print out the list of commands we parsed in this session
