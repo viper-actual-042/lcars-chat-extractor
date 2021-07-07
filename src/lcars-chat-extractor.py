@@ -4,12 +4,13 @@ import sys
 import unicodedata
 
 lcars_commands_parsed = []
+objects_to_parse = 5
 
 def parse_discord_data(json_data):
     mcount = 0
     last_message = {}
     skip_command = 0
-    global lcars_commands_parsed
+    global lcars_commands_parsed, objects_to_parse
     last_lcars_command = ""
 
     for message in json_data['messages']:
@@ -61,9 +62,10 @@ def parse_discord_data(json_data):
         last_message = message
         mcount += 1
 
-        # nerf the parsing for now while we figure out the format
-        #if mcount > 10:
-        #    return 0
+        if objects_to_parse > 0:
+            # nerf the parsing for now while we figure out the format
+            if mcount > objects_to_parse:
+                return 0
 
     return 0
 
@@ -87,8 +89,13 @@ def walk_folders(path):
             process_file(entry.path)    
 
 def main():
+    global objects_to_parse
     if len(sys.argv) > 1:
         directory = sys.argv[1]
+        try:
+            objects_to_parse = int(sys.argv[2])
+        except IndexError:
+            pass
     else:
         # use the current working directory if none is specified in command-line args
         directory = os.getcwd()

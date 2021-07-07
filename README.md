@@ -32,5 +32,8 @@
 4. Run the extractor
     - example usage: `python ./src/lcars-chat-extractor.py <path-to-data-files>`
     - `python ./src/lcars-chat-extractor.py ./raw-data/`
+    - output all objects to markdown: `python ./src/lcars-chat-extractor.py ./raw-data/ > ./sample-output/revision-0.1.3.md 0`
+    - output 10 objects per file to markdown: `python ./src/lcars-chat-extractor.py ./raw-data/ > ./sample-output/revision-0.1.3-10.md 10`
+
 5. Deactivate the python venv
     - `deactivate`

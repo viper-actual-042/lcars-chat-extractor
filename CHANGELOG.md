@@ -11,3 +11,7 @@
 - Update output format to better track LCARS format
 - Remove parsing nerf so it processes the entire JSON file instead of first 5 entries
 - generate `sample-output/revision-0.1.2-output.md`
+#### v0.1.2
+- Control parsing nerf via sys argv 2
+- generate `sample-output/revision-0.1.3.md`
+- generate `sample-output/revision-0.1.3-10.md`
